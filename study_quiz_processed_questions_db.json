@@ -761,6 +761,687 @@
     "unique_questions": 28
   },
   {
+    "quiz_title": "Quiz 2 (due Thursday, Sept. 11 at 11:59 PM): BIOL 1009 (070-082) General Biology (Fall 2025)",
+    "questions": [
+      {
+        "question": "MgCl2 is an example of",
+        "unique": true,
+        "id": 29,
+        "options": [
+          {
+            "text": "a compound",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "an element",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a molecule",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "an organic substance",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Electron shells",
+        "unique": true,
+        "id": 30,
+        "options": [
+          {
+            "text": "may have only certain average distances from the nucleus and may have only certain energy levels",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "may have any average distance from the nucleus and any energy level",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "may have any average distance from the nucleus but may have only certain energy levels",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "may have only certain average distances from the nucleus but may have any energy level",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "When a reversible chemical reaction reaches equilibrium,",
+        "unique": true,
+        "id": 31,
+        "options": [
+          {
+            "text": "the forward and reverse reactions stop",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the relative concentrations of reactants and products continues to change",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the concentrations of reactants and products are equal",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the forward and reverse reactions occur at the same rate",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "How many electrons do carbon atoms have in their valence shell?",
+        "unique": true,
+        "id": 32,
+        "options": [
+          {
+            "text": "1",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "8",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "2",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "4",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "How many electrons do nitrogen atoms have in their valence shell?",
+        "unique": true,
+        "id": 33,
+        "options": [
+          {
+            "text": "2",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "5",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "4",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "3",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Pure water at room temperature has a concentration of 10-7 hydrogen ions (H+) and 10-7 hydroxyl ions (OH-). Why is this?",
+        "unique": true,
+        "id": 34,
+        "options": [
+          {
+            "text": "Because at any given moment 1 in 1014 water molecules is broken apart into hydrogen and hydroxyl ions.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Because water will absorb oxygen molecules from the atmosphere and some of those oxygen molecules will combine with hydrogen atoms from the water.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Because at any given moment 1 in 103.5 water molecules is broken apart into hydrogen and hydroxyl ions.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Because at any given moment 1 in 107 water molecules is broken apart into hydrogen and hydroxyl ions.",
+            "is_correct": true,
+            "comment": "Nice job!"
+          }
+        ]
+      },
+      {
+        "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-8 M?",
+        "unique": true,
+        "id": 35,
+        "options": [
+          {
+            "text": "pH 2",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "pH 10",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "pH 8",
+            "is_correct": true,
+            "comment": "Nice job!"
+          },
+          {
+            "text": "pH 4",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "If you mix a solid, hydrophilic substance “X” and a solid, hydrophobic substance “Y” with water",
+        "unique": true,
+        "id": 36,
+        "options": [
+          {
+            "text": "X will likely not dissolve in the water. Y will likely dissolve in the water, forming a solution where Y is the solvent and water is the solute.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "X will likely not dissolve in the water. Y will likely dissolve in the water, forming a solution where Y is the solute and water is the solvent.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "X will likely dissolve in the water, forming a solution where X is the solute and water is the solvent. Y will likely not dissolve in the water.",
+            "is_correct": true,
+            "comment": "Good work!"
+          },
+          {
+            "text": "X will likely dissolve in the water, forming a solution where X is the solvent and water is the solute. Y will likely not dissolve in the water.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following would you expect to dissolve poorly in water?",
+        "unique": true,
+        "id": 37,
+        "options": [
+          {
+            "text": "A substance with a lot of polar covalent bonds",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "A substance with a lot of nonpolar covalent bonds",
+            "is_correct": true,
+            "comment": "Good work!"
+          },
+          {
+            "text": "Anions",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Cations",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Discovery science",
+        "unique": true,
+        "id": 38,
+        "options": [
+          {
+            "text": "focuses on testing predictions",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "focuses on formulating hypotheses",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "focuses on answering specific questions",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "focuses on accurately describing natural structures or processes",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
+        "unique": true,
+        "id": 39,
+        "options": [
+          {
+            "text": "gives the investigator a systematic, unbiased result",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "allows rejection of a hypothesis",
+            "is_correct": true,
+            "comment": "Nice job!"
+          },
+          {
+            "text": "ensures that the variable being tested is measured without error",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "ensures that hypotheses can be confirmed with certainty",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "A hypothesis",
+        "unique": true,
+        "id": 40,
+        "options": [
+          {
+            "text": "can NOT be proven to be correct or incorrect, regardless of experimental results",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "can be proven to be correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "can be proven to be correct or incorrect, depending on experimental results",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "can NOT be proven to be correct",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+        "unique": true,
+        "id": 41,
+        "options": [
+          {
+            "text": "some conceivable observation or experiment could reveal whether a given hypothesis is incorrect",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "only a controlled experiment can prove whether a hypothesis is correct or incorrect",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the hypothesis has been proved wrong",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "there must be several options in the hypothesis to chose from, one of which is correct",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Polar molecules are often able to dissolve in water because",
+        "unique": true,
+        "id": 42,
+        "options": [
+          {
+            "text": "The polar molecules attract each other, allowing water molecules to adsorb to them.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The polar molecules repel each other, allowing them to interact with the water molecules.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The partially charged regions of polar molecules are able to form hydrogen bonds with water molecules.",
+            "is_correct": true,
+            "comment": "Good work!"
+          },
+          {
+            "text": "Polar molecules are able to fill their valence shells by transferring electrons from water molecules.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH-] concentration of 10-12 M?",
+        "unique": true,
+        "id": 43,
+        "options": [
+          {
+            "text": "pH 2",
+            "is_correct": true,
+            "comment": "Nice job!"
+          },
+          {
+            "text": "pH 12",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "pH 10",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "pH 4",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH-]?",
+        "unique": true,
+        "id": 44,
+        "options": [
+          {
+            "text": "0.01 moles/liter",
+            "is_correct": true,
+            "comment": "Nice job!"
+          },
+          {
+            "text": "2 moles/liter",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "10-12 moles/liter",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "0.12 moles/liter",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The charge on a water molecule is best described as being:",
+        "unique": true,
+        "id": 45,
+        "options": [
+          {
+            "text": "Somewhat less than minus one near the oxygen atom and plus one near each of the hydrogen atoms.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Minus one near the oxygen atom and somewhat less than plus one near each of the hydrogen atoms.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Minus one near the oxygen atom and plus one near each of the hydrogen atoms.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Somewhat less than minus one near the oxygen atom and somewhat less than plus one near each of the hydrogen atoms.",
+            "is_correct": true,
+            "comment": "Good work!"
+          }
+        ]
+      },
+      {
+        "question": "A theory is",
+        "unique": true,
+        "id": 46,
+        "options": [
+          {
+            "text": "a poorly supported idea that has little backing but might be correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a concept that, once established in the scientific literature, can be modified but never rejected, even when new scientific methods produce data that don’t fit",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a well-supported concept that has broad explanatory power",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "not correct unless it is several years old",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Qualitative data may be collected",
+        "unique": true,
+        "id": 47,
+        "options": [
+          {
+            "text": "when carrying out discovery science or hypothesis-based science",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "only when carrying out discovery science",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "only when carrying out hypothesis-based science",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "only when carrying out numerical science",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+        "unique": true,
+        "id": 48,
+        "options": [
+          {
+            "text": "qualitative science.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "experimental science.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "discovery science.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "hypothesis-based science.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements about valence shells is FALSE?",
+        "unique": true,
+        "id": 49,
+        "options": [
+          {
+            "text": "Electrons in the valence shell (i.e. valence electrons) are primarily responsible for the chemical behavior of atoms.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The valence shell is the outermost electron shell of an atom.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "The number of valence shells contained by a particular atom is dependent on how many electrons that atom has.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "The valence shell is the highest energy electron shell an atom has.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements about chemical reactions is FALSE?",
+        "unique": true,
+        "id": 50,
+        "options": [
+          {
+            "text": "When hydrogen and oxygen combine to form water, the hydrogen and oxygen molecules are the “reactants” of the reaction.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "When hydrogen and oxygen combine to form water, the water molecules are the “products” of the reaction.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Chemical reactions may only proceed in one direction.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Chemical reactions involve the making and breaking of chemical bonds.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "When two atoms share a pair of electrons, they",
+        "unique": true,
+        "id": 51,
+        "options": [
+          {
+            "text": "form an ionic bond",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "form an electrical bond",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "form a covalent bond",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "form a paired bond",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "When an electron is moved further from the nucleus",
+        "unique": true,
+        "id": 52,
+        "options": [
+          {
+            "text": "its potential energy may change, depending on how the electron was moved",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "its potential energy is unchanged",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "it loses potential energy",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "it gains potential energy",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
+        "unique": true,
+        "id": 53,
+        "options": [
+          {
+            "text": "an electron may move to an electron shell closer to the nucleus.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the atom would become a negatively charged ion, or anion.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the atom may become a radioactive isotope.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "an electron may move to an electron shell farther away from the nucleus.",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      }
+    ],
+    "unique_questions": 25
+  },
+  {
     "quiz_title": "SQ topic 1a level 1a (course resources and policies): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
@@ -2071,7 +2752,7 @@
       {
         "question": "What are two methods of scientific inquiry?",
         "unique": true,
-        "id": 29,
+        "id": 54,
         "options": [
           {
             "text": "hypothesis-based science and experimental planning",
@@ -2098,7 +2779,7 @@
       {
         "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
         "unique": true,
-        "id": 30,
+        "id": 55,
         "options": [
           {
             "text": "all of these answers are correct",
@@ -2124,8 +2805,8 @@
       },
       {
         "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
-        "unique": true,
-        "id": 31,
+        "unique": false,
+        "id": 48,
         "options": [
           {
             "text": "discovery science.",
@@ -2152,7 +2833,7 @@
       {
         "question": "Which of the following is NOT an example of discovery science?",
         "unique": true,
-        "id": 32,
+        "id": 56,
         "options": [
           {
             "text": "Some of Charles Darwin’s work that helped lead to the theory of natural selection",
@@ -2178,8 +2859,8 @@
       },
       {
         "question": "A theory is",
-        "unique": true,
-        "id": 33,
+        "unique": false,
+        "id": 46,
         "options": [
           {
             "text": "not correct unless it is several years old",
@@ -2206,7 +2887,7 @@
       {
         "question": "In science, a “theory”",
         "unique": true,
-        "id": 34,
+        "id": 57,
         "options": [
           {
             "text": "all of these answers are correct",
@@ -2233,7 +2914,7 @@
       {
         "question": "Quantitative data may be collected",
         "unique": true,
-        "id": 35,
+        "id": 58,
         "options": [
           {
             "text": "only when carrying out numerical science",
@@ -2260,7 +2941,7 @@
       {
         "question": "What types of data may be collected when doing discovery science?",
         "unique": true,
-        "id": 36,
+        "id": 59,
         "options": [
           {
             "text": "Qualitative data only",
@@ -2286,8 +2967,8 @@
       },
       {
         "question": "Discovery science",
-        "unique": true,
-        "id": 37,
+        "unique": false,
+        "id": 38,
         "options": [
           {
             "text": "focuses on answering specific questions",
@@ -2314,7 +2995,7 @@
       {
         "question": "In science, a possible answer to a specific question is know as a",
         "unique": true,
-        "id": 38,
+        "id": 60,
         "options": [
           {
             "text": "theory",
@@ -2339,7 +3020,7 @@
         ]
       }
     ],
-    "unique_questions": 10
+    "unique_questions": 7
   },
   {
     "quiz_title": "SQ topic 1b level 1b (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
@@ -2347,7 +3028,7 @@
       {
         "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
         "unique": false,
-        "id": 30,
+        "id": 55,
         "options": [
           {
             "text": "theory",
@@ -2374,7 +3055,7 @@
       {
         "question": "What types of data may be collected when doing hypothesis-based science?",
         "unique": true,
-        "id": 39,
+        "id": 61,
         "options": [
           {
             "text": "Quantitative and qualitative data",
@@ -2401,7 +3082,7 @@
       {
         "question": "What types of data may be collected when doing discovery science?",
         "unique": false,
-        "id": 36,
+        "id": 59,
         "options": [
           {
             "text": "Only data that is partially qualitative and partially quantitative",
@@ -2428,7 +3109,7 @@
       {
         "question": "The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as",
         "unique": true,
-        "id": 40,
+        "id": 62,
         "options": [
           {
             "text": "prediction testing",
@@ -2455,7 +3136,7 @@
       {
         "question": "Which of the following is an example of qualitative data?",
         "unique": true,
-        "id": 41,
+        "id": 63,
         "options": [
           {
             "text": "The fish swam in a zigzag motion.",
@@ -2482,7 +3163,7 @@
       {
         "question": "Which of the following best describes the logic of hypothesis-based science?",
         "unique": true,
-        "id": 42,
+        "id": 64,
         "options": [
           {
             "text": "If my hypothesis is correct, I can expect certain results.",
@@ -2509,7 +3190,7 @@
       {
         "question": "Quantitative data may be collected",
         "unique": false,
-        "id": 35,
+        "id": 58,
         "options": [
           {
             "text": "only when carrying out hypothesis-based science",
@@ -2535,8 +3216,8 @@
       },
       {
         "question": "Qualitative data may be collected",
-        "unique": true,
-        "id": 43,
+        "unique": false,
+        "id": 47,
         "options": [
           {
             "text": "only when carrying out numerical science",
@@ -2563,7 +3244,7 @@
       {
         "question": "During peer-review of a manuscript",
         "unique": true,
-        "id": 44,
+        "id": 65,
         "options": [
           {
             "text": "typically two to three experts review the manuscript",
@@ -2589,8 +3270,8 @@
       },
       {
         "question": "A hypothesis",
-        "unique": true,
-        "id": 45,
+        "unique": false,
+        "id": 40,
         "options": [
           {
             "text": "is a prediction scientists make based on many careful observations",
@@ -2615,7 +3296,7 @@
         ]
       }
     ],
-    "unique_questions": 7
+    "unique_questions": 5
   },
   {
     "quiz_title": "SQ topic 1b level 1c (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
@@ -2623,7 +3304,7 @@
       {
         "question": "Which of the following is NOT an example of discovery science?",
         "unique": false,
-        "id": 32,
+        "id": 56,
         "options": [
           {
             "text": "Some of Jane Goodall’s work observing chimpanzee behavior",
@@ -2650,7 +3331,7 @@
       {
         "question": "What types of data may be collected when doing hypothesis-based science?",
         "unique": false,
-        "id": 39,
+        "id": 61,
         "options": [
           {
             "text": "Quantitative data only",
@@ -2677,7 +3358,7 @@
       {
         "question": "Which of the following is an example of qualitative data?",
         "unique": false,
-        "id": 41,
+        "id": 63,
         "options": [
           {
             "text": "Records of precise water temperature",
@@ -2704,7 +3385,7 @@
       {
         "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
         "unique": false,
-        "id": 30,
+        "id": 55,
         "options": [
           {
             "text": "prediction",
@@ -2731,7 +3412,7 @@
       {
         "question": "What types of data may be collected when doing discovery science?",
         "unique": false,
-        "id": 36,
+        "id": 59,
         "options": [
           {
             "text": "Quantitative and qualitative data",
@@ -2758,7 +3439,7 @@
       {
         "question": "Which of the following is an example of qualitative data?",
         "unique": false,
-        "id": 41,
+        "id": 63,
         "options": [
           {
             "text": "The fish swam in a zigzag motion.",
@@ -2784,8 +3465,8 @@
       },
       {
         "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
-        "unique": true,
-        "id": 46,
+        "unique": false,
+        "id": 41,
         "options": [
           {
             "text": "there must be several options in the hypothesis to chose from, one of which is correct",
@@ -2812,7 +3493,7 @@
       {
         "question": "Which of the following is an example of quantitative data?",
         "unique": true,
-        "id": 47,
+        "id": 66,
         "options": [
           {
             "text": "Records of plant weights",
@@ -2839,7 +3520,7 @@
       {
         "question": "Qualitative data may be collected",
         "unique": false,
-        "id": 43,
+        "id": 47,
         "options": [
           {
             "text": "only when carrying out discovery science",
@@ -2866,7 +3547,7 @@
       {
         "question": "Which of the following best describes the logic of hypothesis-based science?",
         "unique": false,
-        "id": 42,
+        "id": 64,
         "options": [
           {
             "text": "If I generate a testable hypothesis, tests and observations will support it.",
@@ -2891,7 +3572,7 @@
         ]
       }
     ],
-    "unique_questions": 2
+    "unique_questions": 1
   },
   {
     "quiz_title": "SQ topic 1b level 1d (Chapter 1): BIOL 1009 (070-082) General Biology (Fall 2025)",
@@ -2899,7 +3580,7 @@
       {
         "question": "A hypothesis",
         "unique": false,
-        "id": 45,
+        "id": 40,
         "options": [
           {
             "text": "is a prediction scientists make based on many careful observations",
@@ -2926,7 +3607,7 @@
       {
         "question": "In science, a possible answer to a specific question is know as a",
         "unique": false,
-        "id": 38,
+        "id": 60,
         "options": [
           {
             "text": "hypothesis",
@@ -2953,7 +3634,7 @@
       {
         "question": "What are two methods of scientific inquiry?",
         "unique": false,
-        "id": 29,
+        "id": 54,
         "options": [
           {
             "text": "discovery science and experimental planning",
@@ -2980,7 +3661,7 @@
       {
         "question": "A hypothesis",
         "unique": false,
-        "id": 45,
+        "id": 40,
         "options": [
           {
             "text": "can NOT be proven to be correct",
@@ -3007,7 +3688,7 @@
       {
         "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
         "unique": false,
-        "id": 46,
+        "id": 41,
         "options": [
           {
             "text": "there must be several options in the hypothesis to chose from, one of which is correct",
@@ -3034,7 +3715,7 @@
       {
         "question": "In science, a “theory”",
         "unique": false,
-        "id": 34,
+        "id": 57,
         "options": [
           {
             "text": "is supported by a large body of evidence",
@@ -3061,7 +3742,7 @@
       {
         "question": "Which of the following is an example of qualitative data?",
         "unique": false,
-        "id": 41,
+        "id": 63,
         "options": [
           {
             "text": "The fish swam in a zigzag motion.",
@@ -3088,7 +3769,7 @@
       {
         "question": "A theory is",
         "unique": false,
-        "id": 33,
+        "id": 46,
         "options": [
           {
             "text": "a well-supported concept that has broad explanatory power",
@@ -3115,7 +3796,7 @@
       {
         "question": "Which of the following best describes the logic of hypothesis-based science?",
         "unique": false,
-        "id": 42,
+        "id": 64,
         "options": [
           {
             "text": "If I generate a testable hypothesis, tests and observations will support it.",
@@ -3142,7 +3823,7 @@
       {
         "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
         "unique": false,
-        "id": 30,
+        "id": 55,
         "options": [
           {
             "text": "theory",
@@ -3175,7 +3856,7 @@
       {
         "question": "Which of the following statements about hypotheses is FALSE?",
         "unique": true,
-        "id": 48,
+        "id": 67,
         "options": [
           {
             "text": "Hypotheses should be possible answers to specific questions.",
@@ -3202,7 +3883,7 @@
       {
         "question": "What types of data may be collected when doing discovery science?",
         "unique": false,
-        "id": 36,
+        "id": 59,
         "options": [
           {
             "text": "Only data that is partially qualitative and partially quantitative",
@@ -3229,7 +3910,7 @@
       {
         "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
         "unique": false,
-        "id": 31,
+        "id": 48,
         "options": [
           {
             "text": "discovery science.",
@@ -3256,7 +3937,7 @@
       {
         "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
         "unique": false,
-        "id": 30,
+        "id": 55,
         "options": [
           {
             "text": "theory",
@@ -3283,7 +3964,7 @@
       {
         "question": "What are two methods of scientific inquiry?",
         "unique": false,
-        "id": 29,
+        "id": 54,
         "options": [
           {
             "text": "discovery science and hypothesis-based science",
@@ -3310,7 +3991,7 @@
       {
         "question": "Through careful experimentation or observations, it is possible to prove",
         "unique": true,
-        "id": 49,
+        "id": 68,
         "options": [
           {
             "text": "a theory, but not a hypothesis",
@@ -3337,7 +4018,7 @@
       {
         "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
         "unique": false,
-        "id": 46,
+        "id": 41,
         "options": [
           {
             "text": "only a controlled experiment can prove whether a hypothesis is correct or incorrect",
@@ -3364,7 +4045,7 @@
       {
         "question": "Qualitative data may be collected",
         "unique": false,
-        "id": 43,
+        "id": 47,
         "options": [
           {
             "text": "only when carrying out numerical science",
@@ -3391,7 +4072,7 @@
       {
         "question": "Which of the following best describes the logic of hypothesis-based science?",
         "unique": false,
-        "id": 42,
+        "id": 64,
         "options": [
           {
             "text": "If my prediction is correct, it will lead to a testable hypothesis.",
@@ -3418,7 +4099,7 @@
       {
         "question": "Which of the following is an example of quantitative data?",
         "unique": false,
-        "id": 47,
+        "id": 66,
         "options": [
           {
             "text": "Records of which beers taste bitter",
@@ -3451,7 +4132,7 @@
       {
         "question": "Which of the following is an example of qualitative data?",
         "unique": false,
-        "id": 41,
+        "id": 63,
         "options": [
           {
             "text": "The six pairs of robins hatched an average of three chicks.",
@@ -3478,7 +4159,7 @@
       {
         "question": "What types of data may be collected when doing hypothesis-based science?",
         "unique": false,
-        "id": 39,
+        "id": 61,
         "options": [
           {
             "text": "Quantitative and qualitative data",
@@ -3505,7 +4186,7 @@
       {
         "question": "The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as",
         "unique": false,
-        "id": 40,
+        "id": 62,
         "options": [
           {
             "text": "prediction testing",
@@ -3532,7 +4213,7 @@
       {
         "question": "A hypothesis",
         "unique": false,
-        "id": 45,
+        "id": 40,
         "options": [
           {
             "text": "can NOT be proven to be correct or incorrect, regardless of experimental results",
@@ -3559,7 +4240,7 @@
       {
         "question": "Which of the following is an example of quantitative data?",
         "unique": false,
-        "id": 47,
+        "id": 66,
         "options": [
           {
             "text": "Records of plant weights",
@@ -3586,7 +4267,7 @@
       {
         "question": "Discovery science",
         "unique": false,
-        "id": 37,
+        "id": 38,
         "options": [
           {
             "text": "focuses on testing predictions",
@@ -3613,7 +4294,7 @@
       {
         "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
         "unique": false,
-        "id": 31,
+        "id": 48,
         "options": [
           {
             "text": "experimental science.",
@@ -3640,7 +4321,7 @@
       {
         "question": "Qualitative data may be collected",
         "unique": false,
-        "id": 43,
+        "id": 47,
         "options": [
           {
             "text": "when carrying out discovery science or hypothesis-based science",
@@ -3667,7 +4348,7 @@
       {
         "question": "A hypothesis",
         "unique": false,
-        "id": 45,
+        "id": 40,
         "options": [
           {
             "text": "is a prediction scientists make based on many careful observations",
@@ -3694,7 +4375,7 @@
       {
         "question": "What are two methods of scientific inquiry?",
         "unique": false,
-        "id": 29,
+        "id": 54,
         "options": [
           {
             "text": "discovery science and hypothesis-based science",
@@ -3727,7 +4408,7 @@
       {
         "question": "A hypothesis",
         "unique": false,
-        "id": 45,
+        "id": 40,
         "options": [
           {
             "text": "can NOT be proven to be correct or incorrect, regardless of experimental results",
@@ -3754,7 +4435,7 @@
       {
         "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
         "unique": true,
-        "id": 50,
+        "id": 69,
         "options": [
           {
             "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
@@ -3781,7 +4462,7 @@
       {
         "question": "In science, a possible answer to a specific question is know as a",
         "unique": false,
-        "id": 38,
+        "id": 60,
         "options": [
           {
             "text": "hypothesis",
@@ -3808,7 +4489,7 @@
       {
         "question": "Quantitative data may be collected",
         "unique": false,
-        "id": 35,
+        "id": 58,
         "options": [
           {
             "text": "only when carrying out discovery science",
@@ -3835,7 +4516,7 @@
       {
         "question": "In science, a “theory”",
         "unique": false,
-        "id": 34,
+        "id": 57,
         "options": [
           {
             "text": "tends to generate new hypotheses",
@@ -3862,7 +4543,7 @@
       {
         "question": "Which of the following is an example of qualitative data?",
         "unique": false,
-        "id": 41,
+        "id": 63,
         "options": [
           {
             "text": "The six pairs of robins hatched an average of three chicks.",
@@ -3889,7 +4570,7 @@
       {
         "question": "A theory is",
         "unique": false,
-        "id": 33,
+        "id": 46,
         "options": [
           {
             "text": "a poorly supported idea that has little backing but might be correct",
@@ -3916,7 +4597,7 @@
       {
         "question": "During peer-review of a manuscript",
         "unique": false,
-        "id": 44,
+        "id": 65,
         "options": [
           {
             "text": "typically two to three experts review the manuscript",
@@ -3943,7 +4624,7 @@
       {
         "question": "Discovery science",
         "unique": false,
-        "id": 37,
+        "id": 38,
         "options": [
           {
             "text": "focuses on testing predictions",
@@ -3970,7 +4651,7 @@
       {
         "question": "What types of data may be collected when doing hypothesis-based science?",
         "unique": false,
-        "id": 39,
+        "id": 61,
         "options": [
           {
             "text": "Only data that is partially qualitative and partially quantitative",
@@ -4003,7 +4684,7 @@
       {
         "question": "Which of the following best describes the logic of hypothesis-based science?",
         "unique": false,
-        "id": 42,
+        "id": 64,
         "options": [
           {
             "text": "If I generate a testable hypothesis, tests and observations will support it.",
@@ -4030,7 +4711,7 @@
       {
         "question": "Which of the following statements about hypotheses is FALSE?",
         "unique": false,
-        "id": 48,
+        "id": 67,
         "options": [
           {
             "text": "Hypotheses should be falsifiable.",
@@ -4057,7 +4738,7 @@
       {
         "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
         "unique": false,
-        "id": 31,
+        "id": 48,
         "options": [
           {
             "text": "qualitative science.",
@@ -4083,8 +4764,8 @@
       },
       {
         "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
-        "unique": true,
-        "id": 51,
+        "unique": false,
+        "id": 39,
         "options": [
           {
             "text": "gives the investigator a systematic, unbiased result",
@@ -4111,7 +4792,7 @@
       {
         "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
         "unique": false,
-        "id": 50,
+        "id": 69,
         "options": [
           {
             "text": "Theories are proved true in all cases; hypotheses are usually falsified by tests.",
@@ -4138,7 +4819,7 @@
       {
         "question": "A hypothesis",
         "unique": false,
-        "id": 45,
+        "id": 40,
         "options": [
           {
             "text": "can be proven to be correct or incorrect, depending on experimental results",
@@ -4165,7 +4846,7 @@
       {
         "question": "The process whereby science experts determine whether a manuscript is suitable for publication in a scientific journal is known as",
         "unique": false,
-        "id": 40,
+        "id": 62,
         "options": [
           {
             "text": "prediction testing",
@@ -4192,7 +4873,7 @@
       {
         "question": "What types of data may be collected when doing hypothesis-based science?",
         "unique": false,
-        "id": 39,
+        "id": 61,
         "options": [
           {
             "text": "Quantitative and qualitative data",
@@ -4219,7 +4900,7 @@
       {
         "question": "In science, a possible answer to a specific question is know as a",
         "unique": false,
-        "id": 38,
+        "id": 60,
         "options": [
           {
             "text": "theory",
@@ -4246,7 +4927,7 @@
       {
         "question": "Which of the following is an example of qualitative data?",
         "unique": false,
-        "id": 41,
+        "id": 63,
         "options": [
           {
             "text": "The six pairs of robins hatched an average of three chicks.",
@@ -4271,7 +4952,7 @@
         ]
       }
     ],
-    "unique_questions": 1
+    "unique_questions": 0
   },
   {
     "quiz_title": "SQ topic 1b level 2 (Chapter 1)_4",
@@ -4279,7 +4960,7 @@
       {
         "question": "What are two methods of scientific inquiry?",
         "unique": false,
-        "id": 29,
+        "id": 54,
         "options": [
           {
             "text": "discovery science and experimental planning",
@@ -4306,7 +4987,7 @@
       {
         "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
         "unique": false,
-        "id": 31,
+        "id": 48,
         "options": [
           {
             "text": "experimental science.",
@@ -4333,7 +5014,7 @@
       {
         "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
         "unique": false,
-        "id": 46,
+        "id": 41,
         "options": [
           {
             "text": "there must be several options in the hypothesis to chose from, one of which is correct",
@@ -4360,7 +5041,7 @@
       {
         "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
         "unique": false,
-        "id": 50,
+        "id": 69,
         "options": [
           {
             "text": "Theories are proved true in all cases; hypotheses are usually falsified by tests.",
@@ -4387,7 +5068,7 @@
       {
         "question": "A hypothesis",
         "unique": false,
-        "id": 45,
+        "id": 40,
         "options": [
           {
             "text": "is the same thing as a theory",
@@ -4414,7 +5095,7 @@
       {
         "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
         "unique": false,
-        "id": 30,
+        "id": 55,
         "options": [
           {
             "text": "theory",
@@ -4441,7 +5122,7 @@
       {
         "question": "What types of data may be collected when doing discovery science?",
         "unique": false,
-        "id": 36,
+        "id": 59,
         "options": [
           {
             "text": "Quantitative data only",
@@ -4468,7 +5149,7 @@
       {
         "question": "Through careful experimentation or observations, it is possible to prove",
         "unique": false,
-        "id": 49,
+        "id": 68,
         "options": [
           {
             "text": "neither a hypothesis nor a theory",
@@ -4495,7 +5176,7 @@
       {
         "question": "What types of data may be collected when doing hypothesis-based science?",
         "unique": false,
-        "id": 39,
+        "id": 61,
         "options": [
           {
             "text": "Quantitative and qualitative data",
@@ -4522,7 +5203,7 @@
       {
         "question": "A theory is",
         "unique": false,
-        "id": 33,
+        "id": 46,
         "options": [
           {
             "text": "a well-supported concept that has broad explanatory power",
@@ -4550,12 +5231,564 @@
     "unique_questions": 0
   },
   {
+    "quiz_title": "SQ topic 1b level 2 (Chapter 1)_5",
+    "questions": [
+      {
+        "question": "Quantitative data may be collected",
+        "unique": false,
+        "id": 58,
+        "options": [
+          {
+            "text": "when carrying out discovery science or hypothesis-based science",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "only when carrying out discovery science",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "only when carrying out numerical science",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "only when carrying out hypothesis-based science",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "A hypothesis",
+        "unique": false,
+        "id": 40,
+        "options": [
+          {
+            "text": "is a tentative answer to a question",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "is the same thing as a theory",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "is a prediction scientists make based on many careful observations",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "is a specific question formulated by scientists after making many careful observations",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "What types of data may be collected when doing discovery science?",
+        "unique": false,
+        "id": 59,
+        "options": [
+          {
+            "text": "Qualitative data only",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Quantitative and qualitative data",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Only data that is partially qualitative and partially quantitative",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Quantitative data only",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Discovery science",
+        "unique": false,
+        "id": 38,
+        "options": [
+          {
+            "text": "focuses on accurately describing natural structures or processes",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "focuses on testing predictions",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "focuses on answering specific questions",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "focuses on formulating hypotheses",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following best describes the logic of hypothesis-based science?",
+        "unique": false,
+        "id": 64,
+        "options": [
+          {
+            "text": "If my hypothesis is correct, I can expect certain results.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "If my prediction is correct, it will lead to a testable hypothesis.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "If I generate a testable hypothesis, tests and observations will support it.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "If my observations are accurate, they will support my hypothesis.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
+        "unique": false,
+        "id": 39,
+        "options": [
+          {
+            "text": "gives the investigator a systematic, unbiased result",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "ensures that hypotheses can be confirmed with certainty",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "ensures that the variable being tested is measured without error",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "allows rejection of a hypothesis",
+            "is_correct": true,
+            "comment": "Nice job!"
+          }
+        ]
+      },
+      {
+        "question": "A theory is",
+        "unique": false,
+        "id": 46,
+        "options": [
+          {
+            "text": "a concept that, once established in the scientific literature, can be modified but never rejected, even when new scientific methods produce data that don’t fit",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "not correct unless it is several years old",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a well-supported concept that has broad explanatory power",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a poorly supported idea that has little backing but might be correct",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "During peer-review of a manuscript",
+        "unique": false,
+        "id": 65,
+        "options": [
+          {
+            "text": "all of these answers are correct",
+            "is_correct": true,
+            "comment": "Good job!"
+          },
+          {
+            "text": "the conclusions drawn in the manuscript are carefully considered to determine whether they are adequately supported by the data",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the experiments described in the manuscript are evaluated to determine whether they were rigorously performed",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "typically two to three experts review the manuscript",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+        "unique": false,
+        "id": 69,
+        "options": [
+          {
+            "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Theories are proved true in all cases; hypotheses are usually falsified by tests.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Theories are hypotheses that have been proven.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Hypotheses are guesses; theories are correct answers.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following is NOT an example of discovery science?",
+        "unique": false,
+        "id": 56,
+        "options": [
+          {
+            "text": "Observations that led to the conclusion that all organism are made of cells",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Some of Charles Darwin’s work that helped lead to the theory of natural selection",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Some of Jane Goodall’s work observing chimpanzee behavior",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Testing the prediction that mimicking the coloring of poisonous snakes will protect non-poisonous snakes from predation.",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      }
+    ],
+    "unique_questions": 0
+  },
+  {
+    "quiz_title": "SQ topic 1b level 2 (Chapter 1)_6",
+    "questions": [
+      {
+        "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+        "unique": false,
+        "id": 69,
+        "options": [
+          {
+            "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Theories are proved true in all cases; hypotheses are usually falsified by tests.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Theories are hypotheses that have been proven.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Hypotheses are guesses; theories are correct answers.",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Discovery science",
+        "unique": false,
+        "id": 38,
+        "options": [
+          {
+            "text": "focuses on accurately describing natural structures or processes",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "focuses on testing predictions",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "focuses on answering specific questions",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "focuses on formulating hypotheses",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "During peer-review of a manuscript",
+        "unique": false,
+        "id": 65,
+        "options": [
+          {
+            "text": "the conclusions drawn in the manuscript are carefully considered to determine whether they are adequately supported by the data",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": true,
+            "comment": "Good job!"
+          },
+          {
+            "text": "typically two to three experts review the manuscript",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "the experiments described in the manuscript are evaluated to determine whether they were rigorously performed",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+        "unique": false,
+        "id": 55,
+        "options": [
+          {
+            "text": "theory",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "all of these answers are correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "hypothesis",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "prediction",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Through careful experimentation or observations, it is possible to prove",
+        "unique": false,
+        "id": 68,
+        "options": [
+          {
+            "text": "neither a hypothesis nor a theory",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a theory, but not a hypothesis",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a hypothesis, but not a theory",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "either a hypothesis or a theory",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "Which of the following statements about hypotheses is FALSE?",
+        "unique": false,
+        "id": 67,
+        "options": [
+          {
+            "text": "Hypotheses should be possible answers to specific questions.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Hypotheses should be testable.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Hypotheses should be falsifiable.",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Hypotheses should be provable.",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
+        "unique": false,
+        "id": 39,
+        "options": [
+          {
+            "text": "gives the investigator a systematic, unbiased result",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "ensures that the variable being tested is measured without error",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "ensures that hypotheses can be confirmed with certainty",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "allows rejection of a hypothesis",
+            "is_correct": true,
+            "comment": "Nice job!"
+          }
+        ]
+      },
+      {
+        "question": "Which of the following is NOT an example of discovery science?",
+        "unique": false,
+        "id": 56,
+        "options": [
+          {
+            "text": "Observations that led to the conclusion that all organism are made of cells",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Testing the prediction that mimicking the coloring of poisonous snakes will protect non-poisonous snakes from predation.",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "Some of Charles Darwin’s work that helped lead to the theory of natural selection",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "Some of Jane Goodall’s work observing chimpanzee behavior",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "A theory is",
+        "unique": false,
+        "id": 46,
+        "options": [
+          {
+            "text": "a well-supported concept that has broad explanatory power",
+            "is_correct": true,
+            "comment": ""
+          },
+          {
+            "text": "a poorly supported idea that has little backing but might be correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "not correct unless it is several years old",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "a concept that, once established in the scientific literature, can be modified but never rejected, even when new scientific methods produce data that don’t fit",
+            "is_correct": false,
+            "comment": null
+          }
+        ]
+      },
+      {
+        "question": "A hypothesis",
+        "unique": false,
+        "id": 40,
+        "options": [
+          {
+            "text": "can be proven to be correct or incorrect, depending on experimental results",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "can be proven to be correct",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "can NOT be proven to be correct or incorrect, regardless of experimental results",
+            "is_correct": false,
+            "comment": null
+          },
+          {
+            "text": "can NOT be proven to be correct",
+            "is_correct": true,
+            "comment": ""
+          }
+        ]
+      }
+    ],
+    "unique_questions": 0
+  },
+  {
     "quiz_title": "SQ topic 2 level 1a (Chapters 2 + 3): BIOL 1009 (070-082) General Biology (Fall 2025)",
     "questions": [
       {
         "question": "How many electrons do hydrogen atoms have in their valence shell?",
         "unique": true,
-        "id": 52,
+        "id": 70,
         "options": [
           {
             "text": "4",
@@ -4582,7 +5815,7 @@
       {
         "question": "The order of chemical bonds from strongest to weakest is",
         "unique": true,
-        "id": 53,
+        "id": 71,
         "options": [
           {
             "text": "ionic bonds, covalent bonds, hydrogen bonds, van der Waals interactions",
@@ -4608,8 +5841,8 @@
       },
       {
         "question": "When two atoms share a pair of electrons, they",
-        "unique": true,
-        "id": 54,
+        "unique": false,
+        "id": 51,
         "options": [
           {
             "text": "form an electrical bond",
@@ -4636,7 +5869,7 @@
       {
         "question": "If you make a model of a methane (CH4) molecule, the overall shape of the molecule will most closely resemble",
         "unique": true,
-        "id": 55,
+        "id": 72,
         "options": [
           {
             "text": "a square",
@@ -4663,7 +5896,7 @@
       {
         "question": "Water is an example of",
         "unique": true,
-        "id": 56,
+        "id": 73,
         "options": [
           {
             "text": "neither a compound nor a molecule",
@@ -4690,7 +5923,7 @@
       {
         "question": "What is the maximum number of electrons in the 1s orbital of an atom?",
         "unique": true,
-        "id": 57,
+        "id": 74,
         "options": [
           {
             "text": "2.",
@@ -4716,8 +5949,8 @@
       },
       {
         "question": "If you mix a solid, hydrophilic substance “X” and a solid, hydrophobic substance “Y” with water",
-        "unique": true,
-        "id": 58,
+        "unique": false,
+        "id": 36,
         "options": [
           {
             "text": "X will likely not dissolve in the water. Y will likely dissolve in the water, forming a solution where Y is the solute and water is the solvent.",
@@ -4744,7 +5977,7 @@
       {
         "question": "Which of the following statements about moles is true?",
         "unique": true,
-        "id": 59,
+        "id": 75,
         "options": [
           {
             "text": "One mole of hydrogen atoms weighs 1 g",
@@ -4771,7 +6004,7 @@
       {
         "question": "What is the pH of a solution with a hydroxyl ion [OH-] concentration of 10-4.5 M?",
         "unique": true,
-        "id": 60,
+        "id": 76,
         "options": [
           {
             "text": "pH 2",
@@ -4797,8 +6030,8 @@
       },
       {
         "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH-]?",
-        "unique": true,
-        "id": 61,
+        "unique": false,
+        "id": 44,
         "options": [
           {
             "text": "2 moles/liter",
@@ -4823,7 +6056,7 @@
         ]
       }
     ],
-    "unique_questions": 10
+    "unique_questions": 7
   },
   {
     "quiz_title": "SQ topic 2 level 1b (Chapters 2 + 3): BIOL 1009 (070-082) General Biology (Fall 2025)",
@@ -4831,7 +6064,7 @@
       {
         "question": "How many covalent bonds do nitrogen atoms need to form with other atoms to complete their valence shell?",
         "unique": true,
-        "id": 62,
+        "id": 77,
         "options": [
           {
             "text": "4",
@@ -4857,8 +6090,8 @@
       },
       {
         "question": "MgCl2 is an example of",
-        "unique": true,
-        "id": 63,
+        "unique": false,
+        "id": 29,
         "options": [
           {
             "text": "a molecule",
@@ -4884,8 +6117,8 @@
       },
       {
         "question": "Which of the following statements about valence shells is FALSE?",
-        "unique": true,
-        "id": 64,
+        "unique": false,
+        "id": 49,
         "options": [
           {
             "text": "Electrons in the valence shell (i.e. valence electrons) are primarily responsible for the chemical behavior of atoms.",
@@ -4912,7 +6145,7 @@
       {
         "question": "The reactivity of an atom arises from",
         "unique": true,
-        "id": 65,
+        "id": 78,
         "options": [
           {
             "text": "the difference in the potential energy of the valence and non-valence electron shells",
@@ -4939,7 +6172,7 @@
       {
         "question": "Sodium is an example of",
         "unique": true,
-        "id": 66,
+        "id": 79,
         "options": [
           {
             "text": "an element",
@@ -4966,7 +6199,7 @@
       {
         "question": "Which of the following statements regarding atomic particles is correct?",
         "unique": true,
-        "id": 67,
+        "id": 80,
         "options": [
           {
             "text": "Electrons are negatively charged, protons are neutral and neutrons are neutral.",
@@ -4993,7 +6226,7 @@
       {
         "question": "A solution with a pH of 13 contains what concentration of hydroxyl ions [OH-]?",
         "unique": true,
-        "id": 68,
+        "id": 81,
         "options": [
           {
             "text": "13 moles/liter",
@@ -5020,7 +6253,7 @@
       {
         "question": "The bonds that are broken when water vaporizes are",
         "unique": true,
-        "id": 69,
+        "id": 82,
         "options": [
           {
             "text": "nonpolar covalent bonds",
@@ -5047,7 +6280,7 @@
       {
         "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-1.5 M?",
         "unique": true,
-        "id": 70,
+        "id": 83,
         "options": [
           {
             "text": "pH 4",
@@ -5073,8 +6306,8 @@
       },
       {
         "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH-] concentration of 10-12 M?",
-        "unique": true,
-        "id": 71,
+        "unique": false,
+        "id": 43,
         "options": [
           {
             "text": "pH 12",
@@ -5099,7 +6332,7 @@
         ]
       }
     ],
-    "unique_questions": 10
+    "unique_questions": 7
   },
   {
     "quiz_title": "SQ topic 2 level 1c (Chapters 2 + 3): BIOL 1009 (070-082) General Biology (Fall 2025)",
@@ -5107,7 +6340,7 @@
       {
         "question": "Which of the following results from a transfer of electron(s) between atoms?",
         "unique": true,
-        "id": 72,
+        "id": 84,
         "options": [
           {
             "text": "a hydrogen bond",
@@ -5134,7 +6367,7 @@
       {
         "question": "The number of electrons needed to fill the different electron shells is",
         "unique": true,
-        "id": 73,
+        "id": 85,
         "options": [
           {
             "text": "2 in the 1st shel and, 8 in the 2nd shell",
@@ -5161,7 +6394,7 @@
       {
         "question": "The valence shell of an atom",
         "unique": true,
-        "id": 74,
+        "id": 86,
         "options": [
           {
             "text": "is always the lowest energy shell the atom has",
@@ -5188,7 +6421,7 @@
       {
         "question": "How many electrons do hydrogen atoms have in their valence shell?",
         "unique": false,
-        "id": 52,
+        "id": 70,
         "options": [
           {
             "text": "4",
@@ -5215,7 +6448,7 @@
       {
         "question": "Sodium is an example of",
         "unique": false,
-        "id": 66,
+        "id": 79,
         "options": [
           {
             "text": "an element",
@@ -5242,7 +6475,7 @@
       {
         "question": "The order of chemical bonds from strongest to weakest is",
         "unique": false,
-        "id": 53,
+        "id": 71,
         "options": [
           {
             "text": "ionic bonds, covalent bonds, hydrogen bonds, van der Waals interactions",
@@ -5269,7 +6502,7 @@
       {
         "question": "What gives rise to the cohesiveness of water molecules?",
         "unique": true,
-        "id": 75,
+        "id": 87,
         "options": [
           {
             "text": "Nonpolar covalent bonds",
@@ -5296,7 +6529,7 @@
       {
         "question": "If the pH of a solution is decreased from 9 to 8, it means that the",
         "unique": true,
-        "id": 76,
+        "id": 88,
         "options": [
           {
             "text": "concentration of H+ has increased tenfold (10X) compared to what it was at pH 9.",
@@ -5322,8 +6555,8 @@
       },
       {
         "question": "Polar molecules are often able to dissolve in water because",
-        "unique": true,
-        "id": 77,
+        "unique": false,
+        "id": 42,
         "options": [
           {
             "text": "The polar molecules repel each other, allowing them to interact with the water molecules.",
@@ -5350,7 +6583,7 @@
       {
         "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH-] concentration of 10-12 M?",
         "unique": false,
-        "id": 71,
+        "id": 43,
         "options": [
           {
             "text": "pH 2",
@@ -5375,7 +6608,7 @@
         ]
       }
     ],
-    "unique_questions": 6
+    "unique_questions": 5
   },
   {
     "quiz_title": "SQ topic 2 level 1d (Chapters 2 + 3): BIOL 1009 (070-082) General Biology (Fall 2025)",
@@ -5383,7 +6616,7 @@
       {
         "question": "If the pH of a solution is decreased from 9 to 8, it means that the",
         "unique": false,
-        "id": 76,
+        "id": 88,
         "options": [
           {
             "text": "the concentration of both OH- and H+ increased tenfold (10X) compared to what they were at pH 9",
@@ -5410,7 +6643,7 @@
       {
         "question": "What causes water molecules to be polar molecules?",
         "unique": true,
-        "id": 78,
+        "id": 89,
         "options": [
           {
             "text": "Oxygen is less electronegative than hydrogen.",
@@ -5436,8 +6669,8 @@
       },
       {
         "question": "The charge on a water molecule is best described as being:",
-        "unique": true,
-        "id": 79,
+        "unique": false,
+        "id": 45,
         "options": [
           {
             "text": "Somewhat less than minus one near the oxygen atom and plus one near each of the hydrogen atoms.",
@@ -5464,7 +6697,7 @@
       {
         "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
         "unique": true,
-        "id": 80,
+        "id": 90,
         "options": [
           {
             "text": "have an equal number of molecules",
@@ -5491,7 +6724,7 @@
       {
         "question": "Which of the following represents a polar bond?",
         "unique": true,
-        "id": 81,
+        "id": 91,
         "options": [
           {
             "text": "C-H",
@@ -5518,7 +6751,7 @@
       {
         "question": "When a sodium atom and a chlorine atom interact to complete their valence shells",
         "unique": true,
-        "id": 82,
+        "id": 92,
         "options": [
           {
             "text": "an electron is transferred from sodium to chlorine, turning the sodium atom into a cation and the chlorine atom into an anion and allowing the two atoms to form an ionic bond",
@@ -5545,7 +6778,7 @@
       {
         "question": "Why does the structure shown below fail to make sense chemically?H-C=C-H",
         "unique": true,
-        "id": 83,
+        "id": 93,
         "options": [
           {
             "text": "Each hydrogen atom only has 1 covalent bond.",
@@ -5572,7 +6805,7 @@
       {
         "question": "Which of the following is not a compound?",
         "unique": true,
-        "id": 84,
+        "id": 94,
         "options": [
           {
             "text": "H2O",
@@ -5599,7 +6832,7 @@
       {
         "question": "The order of chemical bonds from strongest to weakest is",
         "unique": false,
-        "id": 53,
+        "id": 71,
         "options": [
           {
             "text": "covalent bonds, ionic bonds, hydrogen bonds, van der Waals interactions",
@@ -5626,7 +6859,7 @@
       {
         "question": "When two atoms share a pair of electrons, they",
         "unique": false,
-        "id": 54,
+        "id": 51,
         "options": [
           {
             "text": "form an electrical bond",
@@ -5651,7 +6884,7 @@
         ]
       }
     ],
-    "unique_questions": 7
+    "unique_questions": 6
   },
   {
     "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)",
@@ -5659,7 +6892,7 @@
       {
         "question": "Which of the following do NOT comprise a significant fraction of the human body?",
         "unique": true,
-        "id": 85,
+        "id": 95,
         "options": [
           {
             "text": "hydrogen",
@@ -5686,7 +6919,7 @@
       {
         "question": "What is the maximum number of electrons in the 1s orbital of an atom?",
         "unique": false,
-        "id": 57,
+        "id": 74,
         "options": [
           {
             "text": "1.",
@@ -5713,7 +6946,7 @@
       {
         "question": "The further on average an electron is from the nucleus",
         "unique": true,
-        "id": 86,
+        "id": 96,
         "options": [
           {
             "text": "the greater its potential energy",
@@ -5740,7 +6973,7 @@
       {
         "question": "With regards to orbitals, which of the following statements is FALSE?",
         "unique": true,
-        "id": 87,
+        "id": 97,
         "options": [
           {
             "text": "An orbital is occupied by one or two electrons.",
@@ -5767,7 +7000,7 @@
       {
         "question": "The valence shell of an atom",
         "unique": false,
-        "id": 74,
+        "id": 86,
         "options": [
           {
             "text": "may correspond to the first, second, third, fourth, fifth, sixth or seventh electron shells, depending on how many electrons the atom has",
@@ -5794,7 +7027,7 @@
       {
         "question": "The order of chemical bonds from easiest to hardest to break is",
         "unique": true,
-        "id": 88,
+        "id": 98,
         "options": [
           {
             "text": "ionic bonds, covalent bonds, hydrogen bonds, van der Waals interactions",
@@ -5821,7 +7054,7 @@
       {
         "question": "The molar mass of glucose is 180 g/mol. Which of the following procedures should you carry out to make a 1 M (molar) solution of glucose?",
         "unique": true,
-        "id": 89,
+        "id": 99,
         "options": [
           {
             "text": "Dissolve 1 g of glucose in 1 L of water.",
@@ -5848,7 +7081,7 @@
       {
         "question": "What is the pH of a solution with a hydroxyl ion [OH-] concentration of 10-4 M?",
         "unique": true,
-        "id": 90,
+        "id": 100,
         "options": [
           {
             "text": "pH 2",
@@ -5875,7 +7108,7 @@
       {
         "question": "In humans, blood pH is around 7.4, and a decrease in blood pH to 6.4 would be fatal. A drop by 1 pH unit represents which of the following?",
         "unique": true,
-        "id": 91,
+        "id": 101,
         "options": [
           {
             "text": "ten times as many H+ ions in the solution",
@@ -5902,7 +7135,7 @@
       {
         "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
         "unique": false,
-        "id": 80,
+        "id": 90,
         "options": [
           {
             "text": "have an equal number of atoms",
@@ -5935,7 +7168,7 @@
       {
         "question": "The number of electron orbitals in the different electron shells is",
         "unique": true,
-        "id": 92,
+        "id": 102,
         "options": [
           {
             "text": "2 in the 1st shell and 4 in the second shell",
@@ -5962,7 +7195,7 @@
       {
         "question": "How many covalent bonds do carbon atoms need to form with other atoms to complete their valence shell?",
         "unique": true,
-        "id": 93,
+        "id": 103,
         "options": [
           {
             "text": "4",
@@ -5989,7 +7222,7 @@
       {
         "question": "The lowest energy mechanism by which a carbon atom may complete its valence shell is to",
         "unique": true,
-        "id": 94,
+        "id": 104,
         "options": [
           {
             "text": "transfer the 4 electrons in its valence shell to other atoms or transfer 4 electrons from other atoms to its valence shell",
@@ -6015,8 +7248,8 @@
       },
       {
         "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
-        "unique": true,
-        "id": 95,
+        "unique": false,
+        "id": 53,
         "options": [
           {
             "text": "an electron may move to an electron shell farther away from the nucleus.",
@@ -6043,7 +7276,7 @@
       {
         "question": "The bonds in a water molecule are",
         "unique": true,
-        "id": 96,
+        "id": 105,
         "options": [
           {
             "text": "hydrogen bonds",
@@ -6070,7 +7303,7 @@
       {
         "question": "With regards to orbitals, which of the following statements is FALSE?",
         "unique": false,
-        "id": 87,
+        "id": 97,
         "options": [
           {
             "text": "An orbital is occupied by one or two electrons.",
@@ -6096,8 +7329,8 @@
       },
       {
         "question": "Which of the following would you expect to dissolve poorly in water?",
-        "unique": true,
-        "id": 97,
+        "unique": false,
+        "id": 37,
         "options": [
           {
             "text": "A substance with a lot of nonpolar covalent bonds",
@@ -6124,7 +7357,7 @@
       {
         "question": "Water has a high specific heat because",
         "unique": true,
-        "id": 98,
+        "id": 106,
         "options": [
           {
             "text": "The bonds between the hydrogen and oxygen atoms in a water molecule are polar covalent bonds",
@@ -6151,7 +7384,7 @@
       {
         "question": "If the pH of a solution is increased from pH 5 to pH 7, it means that the",
         "unique": true,
-        "id": 99,
+        "id": 107,
         "options": [
           {
             "text": "concentration of H+ is one hundred times less than it was at pH 5.",
@@ -6177,8 +7410,8 @@
       },
       {
         "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-8 M?",
-        "unique": true,
-        "id": 100,
+        "unique": false,
+        "id": 35,
         "options": [
           {
             "text": "pH 8",
@@ -6203,7 +7436,7 @@
         ]
       }
     ],
-    "unique_questions": 9
+    "unique_questions": 6
   },
   {
     "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_3",
@@ -6211,7 +7444,7 @@
       {
         "question": "How many electrons does it take to fill the first electron shell of a carbon atom?",
         "unique": true,
-        "id": 101,
+        "id": 108,
         "options": [
           {
             "text": "2",
@@ -6238,7 +7471,7 @@
       {
         "question": "Depending on how far an electron is moved from the nucleus",
         "unique": true,
-        "id": 102,
+        "id": 109,
         "options": [
           {
             "text": "you can decrease its potential energy by any amount",
@@ -6265,7 +7498,7 @@
       {
         "question": "Which of the following statements about electrons is FALSE?",
         "unique": true,
-        "id": 103,
+        "id": 110,
         "options": [
           {
             "text": "two electrons may occupy the same electron orbital",
@@ -6292,7 +7525,7 @@
       {
         "question": "When atom “A” forms four single covalent bonds to complete its outermost electron shell, which is its 2nd electron shell, the electron orbitals within that shell will point towards the corners of",
         "unique": true,
-        "id": 104,
+        "id": 111,
         "options": [
           {
             "text": "a rectangle",
@@ -6319,7 +7552,7 @@
       {
         "question": "If you make a model of a water molecule, the lines showing the relative positions of the covalent bonds will most closely resemble",
         "unique": true,
-        "id": 105,
+        "id": 112,
         "options": [
           {
             "text": "a straight line",
@@ -6346,7 +7579,7 @@
       {
         "question": "The reactivity of an atom arises from",
         "unique": false,
-        "id": 65,
+        "id": 78,
         "options": [
           {
             "text": "the potential energy of the valence shell",
@@ -6373,7 +7606,7 @@
       {
         "question": "Which of the following statements about moles is true?",
         "unique": false,
-        "id": 59,
+        "id": 75,
         "options": [
           {
             "text": "All of these answers are correct.",
@@ -6400,7 +7633,7 @@
       {
         "question": "The bonds that are broken when water vaporizes are",
         "unique": false,
-        "id": 69,
+        "id": 82,
         "options": [
           {
             "text": "hydrogen bonds",
@@ -6427,7 +7660,7 @@
       {
         "question": "A solution with a pH of 10 contains what concentration of hydroxyl ions [OH-]?",
         "unique": true,
-        "id": 106,
+        "id": 113,
         "options": [
           {
             "text": "0.01 moles/liter",
@@ -6454,7 +7687,7 @@
       {
         "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
         "unique": false,
-        "id": 80,
+        "id": 90,
         "options": [
           {
             "text": "have an equal volume",
@@ -6487,7 +7720,7 @@
       {
         "question": "Which of the following statements about valence shells is FALSE?",
         "unique": false,
-        "id": 64,
+        "id": 49,
         "options": [
           {
             "text": "Electrons in the valence shell (i.e. valence electrons) are primarily responsible for the chemical behavior of atoms.",
@@ -6514,7 +7747,7 @@
       {
         "question": "The correct order of the following atoms, from most to least electronegative, is",
         "unique": true,
-        "id": 107,
+        "id": 114,
         "options": [
           {
             "text": "oxygen, nitrogen, carbon, hydrogen",
@@ -6541,7 +7774,7 @@
       {
         "question": "How many electrons do hydrogen atoms have in their valence shell?",
         "unique": false,
-        "id": 52,
+        "id": 70,
         "options": [
           {
             "text": "8",
@@ -6568,7 +7801,7 @@
       {
         "question": "How many covalent bonds do carbon atoms need to form with other atoms to complete their valence shell?",
         "unique": false,
-        "id": 93,
+        "id": 103,
         "options": [
           {
             "text": "3",
@@ -6595,7 +7828,7 @@
       {
         "question": "Oxygen gas (O2) is an example of",
         "unique": true,
-        "id": 108,
+        "id": 115,
         "options": [
           {
             "text": "a compound",
@@ -6622,7 +7855,7 @@
       {
         "question": "When a sodium atom and a chlorine atom interact to complete their valence shells",
         "unique": false,
-        "id": 82,
+        "id": 92,
         "options": [
           {
             "text": "an electron is transferred from sodium to chlorine, turning the sodium atom into a cation and the chlorine atom into an anion and allowing the two atoms to form an ionic bond",
@@ -6649,7 +7882,7 @@
       {
         "question": "A mole of water (H2O) molecules and a mole of glucose molecules (C6H12O6)",
         "unique": false,
-        "id": 80,
+        "id": 90,
         "options": [
           {
             "text": "have about ten times as many molecules in the mole of glucose than in the mole of water",
@@ -6676,7 +7909,7 @@
       {
         "question": "In a single molecule of water, two hydrogen atoms are bonded to a single oxygen atom by",
         "unique": true,
-        "id": 109,
+        "id": 116,
         "options": [
           {
             "text": "polar covalent bonds.",
@@ -6703,7 +7936,7 @@
       {
         "question": "What gives rise to the cohesiveness of water molecules?",
         "unique": false,
-        "id": 75,
+        "id": 87,
         "options": [
           {
             "text": "Hydrophobic interactions",
@@ -6730,7 +7963,7 @@
       {
         "question": "A solution with a pH of 1.5 contains what concentration of hydrogen ions [H+]?",
         "unique": true,
-        "id": 110,
+        "id": 117,
         "options": [
           {
             "text": "0.001 moles/liter",
@@ -6763,7 +7996,7 @@
       {
         "question": "When a sodium atom and a chlorine atom interact to complete their valence shells",
         "unique": false,
-        "id": 82,
+        "id": 92,
         "options": [
           {
             "text": "an electron is transferred from sodium to chlorine, turning the sodium atom into an anion and the chlorine atom into a cation and allowing the two atoms to form an ionic bond",
@@ -6790,7 +8023,7 @@
       {
         "question": "With regards to orbitals, which of the following statements is FALSE?",
         "unique": false,
-        "id": 87,
+        "id": 97,
         "options": [
           {
             "text": "An orbital is occupied by one or two electrons.",
@@ -6816,8 +8049,8 @@
       },
       {
         "question": "How many electrons do carbon atoms have in their valence shell?",
-        "unique": true,
-        "id": 111,
+        "unique": false,
+        "id": 32,
         "options": [
           {
             "text": "4",
@@ -6844,7 +8077,7 @@
       {
         "question": "Which of the following results from a transfer of electron(s) between atoms?",
         "unique": false,
-        "id": 72,
+        "id": 84,
         "options": [
           {
             "text": "an ionic bond",
@@ -6871,7 +8104,7 @@
       {
         "question": "How many more electrons do nitrogen atoms need to complete their valence shell?",
         "unique": true,
-        "id": 112,
+        "id": 118,
         "options": [
           {
             "text": "2",
@@ -6898,7 +8131,7 @@
       {
         "question": "When we write “O=O”, the double line represents",
         "unique": true,
-        "id": 113,
+        "id": 119,
         "options": [
           {
             "text": "two ionic bonds between the oxygen atoms",
@@ -6925,7 +8158,7 @@
       {
         "question": "The bonds that are broken when water vaporizes are",
         "unique": false,
-        "id": 69,
+        "id": 82,
         "options": [
           {
             "text": "ionic bonds",
@@ -6952,7 +8185,7 @@
       {
         "question": "In a single molecule of water, two hydrogen atoms are bonded to a single oxygen atom by",
         "unique": false,
-        "id": 109,
+        "id": 116,
         "options": [
           {
             "text": "nonpolar covalent bonds.",
@@ -6979,7 +8212,7 @@
       {
         "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-4 M?",
         "unique": true,
-        "id": 114,
+        "id": 120,
         "options": [
           {
             "text": "pH 4",
@@ -7006,7 +8239,7 @@
       {
         "question": "What causes water molecules to be polar molecules?",
         "unique": false,
-        "id": 78,
+        "id": 89,
         "options": [
           {
             "text": "Water molecules can form hydrogen bonds with each other.",
@@ -7031,835 +8264,7 @@
         ]
       }
     ],
-    "unique_questions": 4
-  },
-  {
-    "quiz_title": "SQ topic 1b level 2 (Chapter 1)_5",
-    "questions": [
-      {
-        "question": "What are two methods of scientific inquiry?",
-        "unique": false,
-        "id": 29,
-        "options": [
-          {
-            "text": "discovery science and experimental planning",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "hypothesis-based science and experimental planning",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "experimental planning and theoretical design",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "discovery science and hypothesis-based science",
-            "is_correct": true,
-            "comment": ""
-          }
-        ]
-      },
-      {
-        "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
-        "unique": false,
-        "id": 31,
-        "options": [
-          {
-            "text": "experimental science.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "discovery science.",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "qualitative science.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "hypothesis-based science.",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
-        "unique": false,
-        "id": 46,
-        "options": [
-          {
-            "text": "there must be several options in the hypothesis to chose from, one of which is correct",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "the hypothesis has been proved wrong",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "only a controlled experiment can prove whether a hypothesis is correct or incorrect",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "some conceivable observation or experiment could reveal whether a given hypothesis is incorrect",
-            "is_correct": true,
-            "comment": ""
-          }
-        ]
-      },
-      {
-        "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
-        "unique": false,
-        "id": 50,
-        "options": [
-          {
-            "text": "Theories are proved true in all cases; hypotheses are usually falsified by tests.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Hypotheses are guesses; theories are correct answers.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Theories are hypotheses that have been proven.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
-            "is_correct": true,
-            "comment": ""
-          }
-        ]
-      },
-      {
-        "question": "A hypothesis",
-        "unique": false,
-        "id": 45,
-        "options": [
-          {
-            "text": "is the same thing as a theory",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "is a specific question formulated by scientists after making many careful observations",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "is a prediction scientists make based on many careful observations",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "is a tentative answer to a question",
-            "is_correct": true,
-            "comment": ""
-          }
-        ]
-      },
-      {
-        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
-        "unique": false,
-        "id": 30,
-        "options": [
-          {
-            "text": "theory",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "all of these answers are correct",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "hypothesis",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "prediction",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "What types of data may be collected when doing discovery science?",
-        "unique": false,
-        "id": 36,
-        "options": [
-          {
-            "text": "Quantitative data only",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Only data that is partially qualitative and partially quantitative",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Qualitative data only",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Quantitative and qualitative data",
-            "is_correct": true,
-            "comment": ""
-          }
-        ]
-      },
-      {
-        "question": "Through careful experimentation or observations, it is possible to prove",
-        "unique": false,
-        "id": 49,
-        "options": [
-          {
-            "text": "neither a hypothesis nor a theory",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "either a hypothesis or a theory",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "a hypothesis, but not a theory",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "a theory, but not a hypothesis",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "What types of data may be collected when doing hypothesis-based science?",
-        "unique": false,
-        "id": 39,
-        "options": [
-          {
-            "text": "Quantitative and qualitative data",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "Qualitative data only",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Only data that is partially qualitative and partially quantitative",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Quantitative data only",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "A theory is",
-        "unique": false,
-        "id": 33,
-        "options": [
-          {
-            "text": "a well-supported concept that has broad explanatory power",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "a poorly supported idea that has little backing but might be correct",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "a concept that, once established in the scientific literature, can be modified but never rejected, even when new scientific methods produce data that don’t fit",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "not correct unless it is several years old",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      }
-    ],
-    "unique_questions": 0
-  },
-  {
-    "quiz_title": "SQ topic 1b level 2 (Chapter 1)_6",
-    "questions": [
-      {
-        "question": "Quantitative data may be collected",
-        "unique": false,
-        "id": 35,
-        "options": [
-          {
-            "text": "when carrying out discovery science or hypothesis-based science",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "only when carrying out discovery science",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "only when carrying out numerical science",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "only when carrying out hypothesis-based science",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "A hypothesis",
-        "unique": false,
-        "id": 45,
-        "options": [
-          {
-            "text": "is a tentative answer to a question",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "is the same thing as a theory",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "is a prediction scientists make based on many careful observations",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "is a specific question formulated by scientists after making many careful observations",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "What types of data may be collected when doing discovery science?",
-        "unique": false,
-        "id": 36,
-        "options": [
-          {
-            "text": "Qualitative data only",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Quantitative and qualitative data",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "Only data that is partially qualitative and partially quantitative",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Quantitative data only",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "Discovery science",
-        "unique": false,
-        "id": 37,
-        "options": [
-          {
-            "text": "focuses on accurately describing natural structures or processes",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "focuses on testing predictions",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "focuses on answering specific questions",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "focuses on formulating hypotheses",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "Which of the following best describes the logic of hypothesis-based science?",
-        "unique": false,
-        "id": 42,
-        "options": [
-          {
-            "text": "If my hypothesis is correct, I can expect certain results.",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "If my prediction is correct, it will lead to a testable hypothesis.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "If I generate a testable hypothesis, tests and observations will support it.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "If my observations are accurate, they will support my hypothesis.",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
-        "unique": false,
-        "id": 51,
-        "options": [
-          {
-            "text": "gives the investigator a systematic, unbiased result",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "ensures that hypotheses can be confirmed with certainty",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "ensures that the variable being tested is measured without error",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "allows rejection of a hypothesis",
-            "is_correct": true,
-            "comment": "Nice job!"
-          }
-        ]
-      },
-      {
-        "question": "A theory is",
-        "unique": false,
-        "id": 33,
-        "options": [
-          {
-            "text": "a concept that, once established in the scientific literature, can be modified but never rejected, even when new scientific methods produce data that don’t fit",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "not correct unless it is several years old",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "a well-supported concept that has broad explanatory power",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "a poorly supported idea that has little backing but might be correct",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "During peer-review of a manuscript",
-        "unique": false,
-        "id": 44,
-        "options": [
-          {
-            "text": "all of these answers are correct",
-            "is_correct": true,
-            "comment": "Good job!"
-          },
-          {
-            "text": "the conclusions drawn in the manuscript are carefully considered to determine whether they are adequately supported by the data",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "the experiments described in the manuscript are evaluated to determine whether they were rigorously performed",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "typically two to three experts review the manuscript",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
-        "unique": false,
-        "id": 50,
-        "options": [
-          {
-            "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "Theories are proved true in all cases; hypotheses are usually falsified by tests.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Theories are hypotheses that have been proven.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Hypotheses are guesses; theories are correct answers.",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "Which of the following is NOT an example of discovery science?",
-        "unique": false,
-        "id": 32,
-        "options": [
-          {
-            "text": "Observations that led to the conclusion that all organism are made of cells",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Some of Charles Darwin’s work that helped lead to the theory of natural selection",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Some of Jane Goodall’s work observing chimpanzee behavior",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Testing the prediction that mimicking the coloring of poisonous snakes will protect non-poisonous snakes from predation.",
-            "is_correct": true,
-            "comment": ""
-          }
-        ]
-      }
-    ],
-    "unique_questions": 0
-  },
-  {
-    "quiz_title": "SQ topic 1b level 2 (Chapter 1)_7",
-    "questions": [
-      {
-        "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
-        "unique": false,
-        "id": 50,
-        "options": [
-          {
-            "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "Theories are proved true in all cases; hypotheses are usually falsified by tests.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Theories are hypotheses that have been proven.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Hypotheses are guesses; theories are correct answers.",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "Discovery science",
-        "unique": false,
-        "id": 37,
-        "options": [
-          {
-            "text": "focuses on accurately describing natural structures or processes",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "focuses on testing predictions",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "focuses on answering specific questions",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "focuses on formulating hypotheses",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "During peer-review of a manuscript",
-        "unique": false,
-        "id": 44,
-        "options": [
-          {
-            "text": "the conclusions drawn in the manuscript are carefully considered to determine whether they are adequately supported by the data",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "all of these answers are correct",
-            "is_correct": true,
-            "comment": "Good job!"
-          },
-          {
-            "text": "typically two to three experts review the manuscript",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "the experiments described in the manuscript are evaluated to determine whether they were rigorously performed",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
-        "unique": false,
-        "id": 30,
-        "options": [
-          {
-            "text": "theory",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "all of these answers are correct",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "hypothesis",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "prediction",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "Through careful experimentation or observations, it is possible to prove",
-        "unique": false,
-        "id": 49,
-        "options": [
-          {
-            "text": "neither a hypothesis nor a theory",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "a theory, but not a hypothesis",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "a hypothesis, but not a theory",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "either a hypothesis or a theory",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "Which of the following statements about hypotheses is FALSE?",
-        "unique": false,
-        "id": 48,
-        "options": [
-          {
-            "text": "Hypotheses should be possible answers to specific questions.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Hypotheses should be testable.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Hypotheses should be falsifiable.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Hypotheses should be provable.",
-            "is_correct": true,
-            "comment": ""
-          }
-        ]
-      },
-      {
-        "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
-        "unique": false,
-        "id": 51,
-        "options": [
-          {
-            "text": "gives the investigator a systematic, unbiased result",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "ensures that the variable being tested is measured without error",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "ensures that hypotheses can be confirmed with certainty",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "allows rejection of a hypothesis",
-            "is_correct": true,
-            "comment": "Nice job!"
-          }
-        ]
-      },
-      {
-        "question": "Which of the following is NOT an example of discovery science?",
-        "unique": false,
-        "id": 32,
-        "options": [
-          {
-            "text": "Observations that led to the conclusion that all organism are made of cells",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Testing the prediction that mimicking the coloring of poisonous snakes will protect non-poisonous snakes from predation.",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "Some of Charles Darwin’s work that helped lead to the theory of natural selection",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Some of Jane Goodall’s work observing chimpanzee behavior",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "A theory is",
-        "unique": false,
-        "id": 33,
-        "options": [
-          {
-            "text": "a well-supported concept that has broad explanatory power",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "a poorly supported idea that has little backing but might be correct",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "not correct unless it is several years old",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "a concept that, once established in the scientific literature, can be modified but never rejected, even when new scientific methods produce data that don’t fit",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "A hypothesis",
-        "unique": false,
-        "id": 45,
-        "options": [
-          {
-            "text": "can be proven to be correct or incorrect, depending on experimental results",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "can be proven to be correct",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "can NOT be proven to be correct or incorrect, regardless of experimental results",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "can NOT be proven to be correct",
-            "is_correct": true,
-            "comment": ""
-          }
-        ]
-      }
-    ],
-    "unique_questions": 0
+    "unique_questions": 3
   },
   {
     "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_6",
@@ -7867,7 +8272,7 @@
       {
         "question": "MgCl2 is an example of",
         "unique": false,
-        "id": 63,
+        "id": 29,
         "options": [
           {
             "text": "an element",
@@ -7894,7 +8299,7 @@
       {
         "question": "When a sodium atom and a chlorine atom interact to complete their valence shells",
         "unique": false,
-        "id": 82,
+        "id": 92,
         "options": [
           {
             "text": "they form 1 polar covalent bond",
@@ -7921,7 +8326,7 @@
       {
         "question": "When two atoms share a pair of electrons, they",
         "unique": false,
-        "id": 54,
+        "id": 51,
         "options": [
           {
             "text": "form a paired bond",
@@ -7948,7 +8353,7 @@
       {
         "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
         "unique": false,
-        "id": 95,
+        "id": 53,
         "options": [
           {
             "text": "an electron may move to an electron shell farther away from the nucleus.",
@@ -7975,7 +8380,7 @@
       {
         "question": "Sodium is an example of",
         "unique": false,
-        "id": 66,
+        "id": 79,
         "options": [
           {
             "text": "a molecule",
@@ -8002,7 +8407,7 @@
       {
         "question": "Which of the following results from a transfer of electron(s) between atoms?",
         "unique": false,
-        "id": 72,
+        "id": 84,
         "options": [
           {
             "text": "an ionic bond",
@@ -8029,7 +8434,7 @@
       {
         "question": "You have a freshly prepared 1 M (molar) solution of glucose in water. You carefully pour out a 100 mL sample of that solution. How many glucose molecules are included in that 100 mL sample?",
         "unique": true,
-        "id": 115,
+        "id": 121,
         "options": [
           {
             "text": "6.02 × 1024",
@@ -8056,7 +8461,7 @@
       {
         "question": "Water has a high specific heat because",
         "unique": false,
-        "id": 98,
+        "id": 106,
         "options": [
           {
             "text": "Water is an excellent solvent",
@@ -8083,7 +8488,7 @@
       {
         "question": "Which of the following statements about moles is true?",
         "unique": false,
-        "id": 59,
+        "id": 75,
         "options": [
           {
             "text": "One mole of hydrogen atoms weighs 1 g",
@@ -8110,7 +8515,7 @@
       {
         "question": "A solution with a pH of 2 contains what concentration of hydrogen ions [H+]?",
         "unique": true,
-        "id": 116,
+        "id": 122,
         "options": [
           {
             "text": "0.02 grams/liter",
@@ -8143,7 +8548,7 @@
       {
         "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
         "unique": false,
-        "id": 95,
+        "id": 53,
         "options": [
           {
             "text": "an electron may move to an electron shell closer to the nucleus.",
@@ -8170,7 +8575,7 @@
       {
         "question": "The further on average an electron is from the nucleus",
         "unique": false,
-        "id": 86,
+        "id": 96,
         "options": [
           {
             "text": "the more highly charged it is",
@@ -8197,7 +8602,7 @@
       {
         "question": "How many electrons do carbon atoms have in their valence shell?",
         "unique": false,
-        "id": 111,
+        "id": 32,
         "options": [
           {
             "text": "2",
@@ -8224,7 +8629,7 @@
       {
         "question": "Which of the following statements is most broadly true of different elements?",
         "unique": true,
-        "id": 117,
+        "id": 123,
         "options": [
           {
             "text": "The chemical behavior of atoms is mostly dependent on the electrons in their second electron shell.",
@@ -8251,7 +8656,7 @@
       {
         "question": "Depending on how far an electron is moved from the nucleus",
         "unique": false,
-        "id": 102,
+        "id": 109,
         "options": [
           {
             "text": "you can decrease its potential energy by any amount",
@@ -8278,7 +8683,7 @@
       {
         "question": "Which of the following is not a molecule?",
         "unique": true,
-        "id": 118,
+        "id": 124,
         "options": [
           {
             "text": "CH4",
@@ -8304,8 +8709,8 @@
       },
       {
         "question": "Pure water at room temperature has a concentration of 10-7 hydrogen ions (H+) and 10-7 hydroxyl ions (OH-). Why is this?",
-        "unique": true,
-        "id": 119,
+        "unique": false,
+        "id": 34,
         "options": [
           {
             "text": "Because at any given moment 1 in 103.5 water molecules is broken apart into hydrogen and hydroxyl ions.",
@@ -8332,7 +8737,7 @@
       {
         "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-4 M?",
         "unique": false,
-        "id": 114,
+        "id": 120,
         "options": [
           {
             "text": "pH 10",
@@ -8359,7 +8764,7 @@
       {
         "question": "Which of the following statements about bases is FALSE?",
         "unique": true,
-        "id": 120,
+        "id": 125,
         "options": [
           {
             "text": "Some bases reduce H+ concentrations by accepting hydrogen ions.",
@@ -8386,7 +8791,7 @@
       {
         "question": "How many molecules of glycerol (C3H8O3; molecular mass = 92) would be present in 1 L of a 1 M (molar) glycerol solution?",
         "unique": true,
-        "id": 121,
+        "id": 126,
         "options": [
           {
             "text": "14 × 6.02 × 1023",
@@ -8411,7 +8816,7 @@
         ]
       }
     ],
-    "unique_questions": 5
+    "unique_questions": 4
   },
   {
     "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_8",
@@ -8419,7 +8824,7 @@
       {
         "question": "Which of the following statements about electrons is FALSE?",
         "unique": false,
-        "id": 103,
+        "id": 110,
         "options": [
           {
             "text": "the closer an electron is to the nucleus, the more strongly the electron is attracted to the nucleus and therefore the more potential energy the electron has",
@@ -8446,7 +8851,7 @@
       {
         "question": "Which of the following statements is most broadly true of different elements?",
         "unique": false,
-        "id": 117,
+        "id": 123,
         "options": [
           {
             "text": "The chemical behavior of atoms is mostly dependent on the electrons in their first electron shell.",
@@ -8473,7 +8878,7 @@
       {
         "question": "Which of the following represents a polar bond?",
         "unique": false,
-        "id": 81,
+        "id": 91,
         "options": [
           {
             "text": "O=O",
@@ -8500,7 +8905,7 @@
       {
         "question": "What is the maximum number of electrons in the 1s orbital of an atom?",
         "unique": false,
-        "id": 57,
+        "id": 74,
         "options": [
           {
             "text": "4.",
@@ -8527,7 +8932,7 @@
       {
         "question": "How many electrons does it take to fill the first electron shell of a carbon atom?",
         "unique": false,
-        "id": 101,
+        "id": 108,
         "options": [
           {
             "text": "4",
@@ -8554,7 +8959,7 @@
       {
         "question": "Atoms with incomplete valence shells may complete their shell by",
         "unique": true,
-        "id": 122,
+        "id": 127,
         "options": [
           {
             "text": "all three of the other answers are correct, depending on the atom in question",
@@ -8581,7 +8986,7 @@
       {
         "question": "Which of the following statements about moles is true?",
         "unique": false,
-        "id": 59,
+        "id": 75,
         "options": [
           {
             "text": "All of these answers are correct.",
@@ -8608,7 +9013,7 @@
       {
         "question": "A solution with a pH of 13 contains what concentration of hydroxyl ions [OH-]?",
         "unique": false,
-        "id": 68,
+        "id": 81,
         "options": [
           {
             "text": "0.1 moles/liter",
@@ -8635,7 +9040,7 @@
       {
         "question": "If the pH of a solution is decreased from 9 to 8, it means that the",
         "unique": false,
-        "id": 76,
+        "id": 88,
         "options": [
           {
             "text": "concentration of OH- has increased tenfold (10X) compared to what it was at pH 9.",
@@ -8662,7 +9067,7 @@
       {
         "question": "The bonds that are broken when water vaporizes are",
         "unique": false,
-        "id": 69,
+        "id": 82,
         "options": [
           {
             "text": "nonpolar covalent bonds",
@@ -8695,7 +9100,7 @@
       {
         "question": "How many covalent bonds do hydrogen atoms need to form with other atoms to complete their valence shell?",
         "unique": true,
-        "id": 123,
+        "id": 128,
         "options": [
           {
             "text": "4",
@@ -8722,7 +9127,7 @@
       {
         "question": "The valence shell of an atom",
         "unique": false,
-        "id": 74,
+        "id": 86,
         "options": [
           {
             "text": "is always the lowest energy shell the atom has",
@@ -8749,7 +9154,7 @@
       {
         "question": "With regards to orbitals, which of the following statements is FALSE?",
         "unique": false,
-        "id": 87,
+        "id": 97,
         "options": [
           {
             "text": "An orbital is occupied by one or two electrons.",
@@ -8776,7 +9181,7 @@
       {
         "question": "When we write “O=O”, the double line represents",
         "unique": false,
-        "id": 113,
+        "id": 119,
         "options": [
           {
             "text": "two electrons shared by the oxygen atoms",
@@ -8803,7 +9208,7 @@
       {
         "question": "The further on average an electron is from the nucleus",
         "unique": false,
-        "id": 86,
+        "id": 96,
         "options": [
           {
             "text": "the greater its potential energy",
@@ -8830,7 +9235,7 @@
       {
         "question": "Which of the following do NOT comprise a significant fraction of the human body?",
         "unique": false,
-        "id": 85,
+        "id": 95,
         "options": [
           {
             "text": "hydrogen",
@@ -8857,7 +9262,7 @@
       {
         "question": "The molar mass of glucose is 180 g/mol. Which of the following procedures should you carry out to make a 1 M (molar) solution of glucose?",
         "unique": false,
-        "id": 89,
+        "id": 99,
         "options": [
           {
             "text": "Dissolve 180 g of glucose in 0.8 L of water, and then add more water until the total volume of the solution is 1 L.",
@@ -8884,7 +9289,7 @@
       {
         "question": "A solution with a pH of 1.5 contains what concentration of hydrogen ions [H+]?",
         "unique": false,
-        "id": 110,
+        "id": 117,
         "options": [
           {
             "text": "1.5 moles/liter",
@@ -8911,7 +9316,7 @@
       {
         "question": "Which of the following statements about bases is FALSE?",
         "unique": false,
-        "id": 120,
+        "id": 125,
         "options": [
           {
             "text": "Bases cause the concentration of hydroxide (OH-) anions to increase and the concentration of H+ cations to decrease.",
@@ -8938,7 +9343,7 @@
       {
         "question": "In humans, blood pH is around 7.4, and a decrease in blood pH to 6.4 would be fatal. A drop by 1 pH unit represents which of the following?",
         "unique": false,
-        "id": 91,
+        "id": 101,
         "options": [
           {
             "text": "twice as many H+ ions in the solution",
@@ -8964,686 +9369,5 @@
       }
     ],
     "unique_questions": 1
-  },
-  {
-    "quiz_title": "Quiz 2 (due Thursday, Sept. 11 at 11:59 PM): BIOL 1009 (070-082) General Biology (Fall 2025)",
-    "questions": [
-      {
-        "question": "MgCl2 is an example of",
-        "unique": false,
-        "id": 63,
-        "options": [
-          {
-            "text": "a compound",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "an element",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "a molecule",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "an organic substance",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "Electron shells",
-        "unique": true,
-        "id": 124,
-        "options": [
-          {
-            "text": "may have only certain average distances from the nucleus and may have only certain energy levels",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "may have any average distance from the nucleus and any energy level",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "may have any average distance from the nucleus but may have only certain energy levels",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "may have only certain average distances from the nucleus but may have any energy level",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "When a reversible chemical reaction reaches equilibrium,",
-        "unique": true,
-        "id": 125,
-        "options": [
-          {
-            "text": "the forward and reverse reactions stop",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "the relative concentrations of reactants and products continues to change",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "the concentrations of reactants and products are equal",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "the forward and reverse reactions occur at the same rate",
-            "is_correct": true,
-            "comment": ""
-          }
-        ]
-      },
-      {
-        "question": "How many electrons do carbon atoms have in their valence shell?",
-        "unique": false,
-        "id": 111,
-        "options": [
-          {
-            "text": "1",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "8",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "2",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "4",
-            "is_correct": true,
-            "comment": ""
-          }
-        ]
-      },
-      {
-        "question": "How many electrons do nitrogen atoms have in their valence shell?",
-        "unique": true,
-        "id": 126,
-        "options": [
-          {
-            "text": "2",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "5",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "4",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "3",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "Pure water at room temperature has a concentration of 10-7 hydrogen ions (H+) and 10-7 hydroxyl ions (OH-). Why is this?",
-        "unique": false,
-        "id": 119,
-        "options": [
-          {
-            "text": "Because at any given moment 1 in 1014 water molecules is broken apart into hydrogen and hydroxyl ions.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Because water will absorb oxygen molecules from the atmosphere and some of those oxygen molecules will combine with hydrogen atoms from the water.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Because at any given moment 1 in 103.5 water molecules is broken apart into hydrogen and hydroxyl ions.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Because at any given moment 1 in 107 water molecules is broken apart into hydrogen and hydroxyl ions.",
-            "is_correct": true,
-            "comment": "Nice job!"
-          }
-        ]
-      },
-      {
-        "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-8 M?",
-        "unique": false,
-        "id": 100,
-        "options": [
-          {
-            "text": "pH 2",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "pH 10",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "pH 8",
-            "is_correct": true,
-            "comment": "Nice job!"
-          },
-          {
-            "text": "pH 4",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "If you mix a solid, hydrophilic substance “X” and a solid, hydrophobic substance “Y” with water",
-        "unique": false,
-        "id": 58,
-        "options": [
-          {
-            "text": "X will likely not dissolve in the water. Y will likely dissolve in the water, forming a solution where Y is the solvent and water is the solute.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "X will likely not dissolve in the water. Y will likely dissolve in the water, forming a solution where Y is the solute and water is the solvent.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "X will likely dissolve in the water, forming a solution where X is the solute and water is the solvent. Y will likely not dissolve in the water.",
-            "is_correct": true,
-            "comment": "Good work!"
-          },
-          {
-            "text": "X will likely dissolve in the water, forming a solution where X is the solvent and water is the solute. Y will likely not dissolve in the water.",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "Which of the following would you expect to dissolve poorly in water?",
-        "unique": false,
-        "id": 97,
-        "options": [
-          {
-            "text": "A substance with a lot of polar covalent bonds",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "A substance with a lot of nonpolar covalent bonds",
-            "is_correct": true,
-            "comment": "Good work!"
-          },
-          {
-            "text": "Anions",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Cations",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "Discovery science",
-        "unique": false,
-        "id": 37,
-        "options": [
-          {
-            "text": "focuses on testing predictions",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "focuses on formulating hypotheses",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "focuses on answering specific questions",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "focuses on accurately describing natural structures or processes",
-            "is_correct": true,
-            "comment": ""
-          }
-        ]
-      },
-      {
-        "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
-        "unique": false,
-        "id": 51,
-        "options": [
-          {
-            "text": "gives the investigator a systematic, unbiased result",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "allows rejection of a hypothesis",
-            "is_correct": true,
-            "comment": "Nice job!"
-          },
-          {
-            "text": "ensures that the variable being tested is measured without error",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "ensures that hypotheses can be confirmed with certainty",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "A hypothesis",
-        "unique": false,
-        "id": 45,
-        "options": [
-          {
-            "text": "can NOT be proven to be correct or incorrect, regardless of experimental results",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "can be proven to be correct",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "can be proven to be correct or incorrect, depending on experimental results",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "can NOT be proven to be correct",
-            "is_correct": true,
-            "comment": ""
-          }
-        ]
-      },
-      {
-        "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
-        "unique": false,
-        "id": 46,
-        "options": [
-          {
-            "text": "some conceivable observation or experiment could reveal whether a given hypothesis is incorrect",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "only a controlled experiment can prove whether a hypothesis is correct or incorrect",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "the hypothesis has been proved wrong",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "there must be several options in the hypothesis to chose from, one of which is correct",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "Polar molecules are often able to dissolve in water because",
-        "unique": false,
-        "id": 77,
-        "options": [
-          {
-            "text": "The polar molecules attract each other, allowing water molecules to adsorb to them.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "The polar molecules repel each other, allowing them to interact with the water molecules.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "The partially charged regions of polar molecules are able to form hydrogen bonds with water molecules.",
-            "is_correct": true,
-            "comment": "Good work!"
-          },
-          {
-            "text": "Polar molecules are able to fill their valence shells by transferring electrons from water molecules.",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH-] concentration of 10-12 M?",
-        "unique": false,
-        "id": 71,
-        "options": [
-          {
-            "text": "pH 2",
-            "is_correct": true,
-            "comment": "Nice job!"
-          },
-          {
-            "text": "pH 12",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "pH 10",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "pH 4",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH-]?",
-        "unique": false,
-        "id": 61,
-        "options": [
-          {
-            "text": "0.01 moles/liter",
-            "is_correct": true,
-            "comment": "Nice job!"
-          },
-          {
-            "text": "2 moles/liter",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "10-12 moles/liter",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "0.12 moles/liter",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "The charge on a water molecule is best described as being:",
-        "unique": false,
-        "id": 79,
-        "options": [
-          {
-            "text": "Somewhat less than minus one near the oxygen atom and plus one near each of the hydrogen atoms.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Minus one near the oxygen atom and somewhat less than plus one near each of the hydrogen atoms.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Minus one near the oxygen atom and plus one near each of the hydrogen atoms.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Somewhat less than minus one near the oxygen atom and somewhat less than plus one near each of the hydrogen atoms.",
-            "is_correct": true,
-            "comment": "Good work!"
-          }
-        ]
-      },
-      {
-        "question": "A theory is",
-        "unique": false,
-        "id": 33,
-        "options": [
-          {
-            "text": "a poorly supported idea that has little backing but might be correct",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "a concept that, once established in the scientific literature, can be modified but never rejected, even when new scientific methods produce data that don’t fit",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "a well-supported concept that has broad explanatory power",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "not correct unless it is several years old",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "Qualitative data may be collected",
-        "unique": false,
-        "id": 43,
-        "options": [
-          {
-            "text": "when carrying out discovery science or hypothesis-based science",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "only when carrying out discovery science",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "only when carrying out hypothesis-based science",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "only when carrying out numerical science",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
-        "unique": false,
-        "id": 31,
-        "options": [
-          {
-            "text": "qualitative science.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "experimental science.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "discovery science.",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "hypothesis-based science.",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "Which of the following statements about valence shells is FALSE?",
-        "unique": false,
-        "id": 64,
-        "options": [
-          {
-            "text": "Electrons in the valence shell (i.e. valence electrons) are primarily responsible for the chemical behavior of atoms.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "The valence shell is the outermost electron shell of an atom.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "The number of valence shells contained by a particular atom is dependent on how many electrons that atom has.",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "The valence shell is the highest energy electron shell an atom has.",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "Which of the following statements about chemical reactions is FALSE?",
-        "unique": true,
-        "id": 127,
-        "options": [
-          {
-            "text": "When hydrogen and oxygen combine to form water, the hydrogen and oxygen molecules are the “reactants” of the reaction.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "When hydrogen and oxygen combine to form water, the water molecules are the “products” of the reaction.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "Chemical reactions may only proceed in one direction.",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "Chemical reactions involve the making and breaking of chemical bonds.",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "When two atoms share a pair of electrons, they",
-        "unique": false,
-        "id": 54,
-        "options": [
-          {
-            "text": "form an ionic bond",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "form an electrical bond",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "form a covalent bond",
-            "is_correct": true,
-            "comment": ""
-          },
-          {
-            "text": "form a paired bond",
-            "is_correct": false,
-            "comment": null
-          }
-        ]
-      },
-      {
-        "question": "When an electron is moved further from the nucleus",
-        "unique": true,
-        "id": 128,
-        "options": [
-          {
-            "text": "its potential energy may change, depending on how the electron was moved",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "its potential energy is unchanged",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "it loses potential energy",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "it gains potential energy",
-            "is_correct": true,
-            "comment": ""
-          }
-        ]
-      },
-      {
-        "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
-        "unique": false,
-        "id": 95,
-        "options": [
-          {
-            "text": "an electron may move to an electron shell closer to the nucleus.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "the atom would become a negatively charged ion, or anion.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "the atom may become a radioactive isotope.",
-            "is_correct": false,
-            "comment": null
-          },
-          {
-            "text": "an electron may move to an electron shell farther away from the nucleus.",
-            "is_correct": true,
-            "comment": ""
-          }
-        ]
-      }
-    ],
-    "unique_questions": 5
   }
 ]

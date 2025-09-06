@@ -761,6 +761,686 @@
       ]
     },
     {
+      "quiz_title": "Quiz 2 (due Thursday, Sept. 11 at 11:59 PM): BIOL 1009 (070-082) General Biology (Fall 2025)",
+      "questions": [
+        {
+          "question": "MgCl2 is an example of",
+          "answers": [
+            {
+              "text": "a compound",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "an element",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "a molecule",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "an organic substance",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "a compound",
+          "general_comment": ""
+        },
+        {
+          "question": "Electron shells",
+          "answers": [
+            {
+              "text": "may have only certain average distances from the nucleus and may have only certain energy levels",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "may have any average distance from the nucleus and any energy level",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "may have any average distance from the nucleus but may have only certain energy levels",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "may have only certain average distances from the nucleus but may have any energy level",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "may have only certain average distances from the nucleus and may have only certain energy levels",
+          "general_comment": ""
+        },
+        {
+          "question": "When a reversible chemical reaction reaches equilibrium,",
+          "answers": [
+            {
+              "text": "the forward and reverse reactions stop",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the relative concentrations of reactants and products continues to change",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the concentrations of reactants and products are equal",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the forward and reverse reactions occur at the same rate",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "the forward and reverse reactions occur at the same rate",
+          "general_comment": ""
+        },
+        {
+          "question": "How many electrons do carbon atoms have in their valence shell?",
+          "answers": [
+            {
+              "text": "1",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "8",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "2",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "4",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "4",
+          "general_comment": ""
+        },
+        {
+          "question": "How many electrons do nitrogen atoms have in their valence shell?",
+          "answers": [
+            {
+              "text": "2",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "5",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "4",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "3",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "5",
+          "general_comment": ""
+        },
+        {
+          "question": "Pure water at room temperature has a concentration of 10-7 hydrogen ions (H+) and 10-7 hydroxyl ions (OH-). Why is this?",
+          "answers": [
+            {
+              "text": "Because at any given moment 1 in 1014 water molecules is broken apart into hydrogen and hydroxyl ions.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Because water will absorb oxygen molecules from the atmosphere and some of those oxygen molecules will combine with hydrogen atoms from the water.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Because at any given moment 1 in 103.5 water molecules is broken apart into hydrogen and hydroxyl ions.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Because at any given moment 1 in 107 water molecules is broken apart into hydrogen and hydroxyl ions.",
+              "is_correct": true,
+              "comment": "Nice job!"
+            }
+          ],
+          "correct_answer": "Because at any given moment 1 in 107 water molecules is broken apart into hydrogen and hydroxyl ions.",
+          "general_comment": "Nice job!"
+        },
+        {
+          "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-8 M?",
+          "answers": [
+            {
+              "text": "pH 2",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "pH 10",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "pH 8",
+              "is_correct": true,
+              "comment": "Nice job!"
+            },
+            {
+              "text": "pH 4",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "pH 8",
+          "general_comment": "Nice job!"
+        },
+        {
+          "question": "If you mix a solid, hydrophilic substance “X” and a solid, hydrophobic substance “Y” with water",
+          "answers": [
+            {
+              "text": "X will likely not dissolve in the water. Y will likely dissolve in the water, forming a solution where Y is the solvent and water is the solute.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "X will likely not dissolve in the water. Y will likely dissolve in the water, forming a solution where Y is the solute and water is the solvent.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "X will likely dissolve in the water, forming a solution where X is the solute and water is the solvent. Y will likely not dissolve in the water.",
+              "is_correct": true,
+              "comment": "Good work!"
+            },
+            {
+              "text": "X will likely dissolve in the water, forming a solution where X is the solvent and water is the solute. Y will likely not dissolve in the water.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "X will likely dissolve in the water, forming a solution where X is the solute and water is the solvent. Y will likely not dissolve in the water.",
+          "general_comment": "Good work!"
+        },
+        {
+          "question": "Which of the following would you expect to dissolve poorly in water?",
+          "answers": [
+            {
+              "text": "A substance with a lot of polar covalent bonds",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "A substance with a lot of nonpolar covalent bonds",
+              "is_correct": true,
+              "comment": "Good work!"
+            },
+            {
+              "text": "Anions",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Cations",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "A substance with a lot of nonpolar covalent bonds",
+          "general_comment": "Good work!"
+        },
+        {
+          "question": "Discovery science",
+          "answers": [
+            {
+              "text": "focuses on testing predictions",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "focuses on formulating hypotheses",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "focuses on answering specific questions",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "focuses on accurately describing natural structures or processes",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "focuses on accurately describing natural structures or processes",
+          "general_comment": ""
+        },
+        {
+          "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
+          "answers": [
+            {
+              "text": "gives the investigator a systematic, unbiased result",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "allows rejection of a hypothesis",
+              "is_correct": true,
+              "comment": "Nice job!"
+            },
+            {
+              "text": "ensures that the variable being tested is measured without error",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ensures that hypotheses can be confirmed with certainty",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "allows rejection of a hypothesis",
+          "general_comment": "Nice job!"
+        },
+        {
+          "question": "A hypothesis",
+          "answers": [
+            {
+              "text": "can NOT be proven to be correct or incorrect, regardless of experimental results",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "can be proven to be correct",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "can be proven to be correct or incorrect, depending on experimental results",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "can NOT be proven to be correct",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "can NOT be proven to be correct",
+          "general_comment": ""
+        },
+        {
+          "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
+          "answers": [
+            {
+              "text": "some conceivable observation or experiment could reveal whether a given hypothesis is incorrect",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "only a controlled experiment can prove whether a hypothesis is correct or incorrect",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the hypothesis has been proved wrong",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "there must be several options in the hypothesis to chose from, one of which is correct",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "some conceivable observation or experiment could reveal whether a given hypothesis is incorrect",
+          "general_comment": ""
+        },
+        {
+          "question": "Polar molecules are often able to dissolve in water because",
+          "answers": [
+            {
+              "text": "The polar molecules attract each other, allowing water molecules to adsorb to them.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The polar molecules repel each other, allowing them to interact with the water molecules.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The partially charged regions of polar molecules are able to form hydrogen bonds with water molecules.",
+              "is_correct": true,
+              "comment": "Good work!"
+            },
+            {
+              "text": "Polar molecules are able to fill their valence shells by transferring electrons from water molecules.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "The partially charged regions of polar molecules are able to form hydrogen bonds with water molecules.",
+          "general_comment": "Good work!"
+        },
+        {
+          "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH-] concentration of 10-12 M?",
+          "answers": [
+            {
+              "text": "pH 2",
+              "is_correct": true,
+              "comment": "Nice job!"
+            },
+            {
+              "text": "pH 12",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "pH 10",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "pH 4",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "pH 2",
+          "general_comment": "Nice job!"
+        },
+        {
+          "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH-]?",
+          "answers": [
+            {
+              "text": "0.01 moles/liter",
+              "is_correct": true,
+              "comment": "Nice job!"
+            },
+            {
+              "text": "2 moles/liter",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "10-12 moles/liter",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "0.12 moles/liter",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "0.01 moles/liter",
+          "general_comment": "Nice job!"
+        },
+        {
+          "question": "The charge on a water molecule is best described as being:",
+          "answers": [
+            {
+              "text": "Somewhat less than minus one near the oxygen atom and plus one near each of the hydrogen atoms.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Minus one near the oxygen atom and somewhat less than plus one near each of the hydrogen atoms.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Minus one near the oxygen atom and plus one near each of the hydrogen atoms.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Somewhat less than minus one near the oxygen atom and somewhat less than plus one near each of the hydrogen atoms.",
+              "is_correct": true,
+              "comment": "Good work!"
+            }
+          ],
+          "correct_answer": "Somewhat less than minus one near the oxygen atom and somewhat less than plus one near each of the hydrogen atoms.",
+          "general_comment": "Good work!"
+        },
+        {
+          "question": "A theory is",
+          "answers": [
+            {
+              "text": "a poorly supported idea that has little backing but might be correct",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "a concept that, once established in the scientific literature, can be modified but never rejected, even when new scientific methods produce data that don’t fit",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "a well-supported concept that has broad explanatory power",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "not correct unless it is several years old",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "a well-supported concept that has broad explanatory power",
+          "general_comment": ""
+        },
+        {
+          "question": "Qualitative data may be collected",
+          "answers": [
+            {
+              "text": "when carrying out discovery science or hypothesis-based science",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "only when carrying out discovery science",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "only when carrying out hypothesis-based science",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "only when carrying out numerical science",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "when carrying out discovery science or hypothesis-based science",
+          "general_comment": ""
+        },
+        {
+          "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
+          "answers": [
+            {
+              "text": "qualitative science.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "experimental science.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "discovery science.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "hypothesis-based science.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "discovery science.",
+          "general_comment": ""
+        },
+        {
+          "question": "Which of the following statements about valence shells is FALSE?",
+          "answers": [
+            {
+              "text": "Electrons in the valence shell (i.e. valence electrons) are primarily responsible for the chemical behavior of atoms.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The valence shell is the outermost electron shell of an atom.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "The number of valence shells contained by a particular atom is dependent on how many electrons that atom has.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "The valence shell is the highest energy electron shell an atom has.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "The number of valence shells contained by a particular atom is dependent on how many electrons that atom has.",
+          "general_comment": ""
+        },
+        {
+          "question": "Which of the following statements about chemical reactions is FALSE?",
+          "answers": [
+            {
+              "text": "When hydrogen and oxygen combine to form water, the hydrogen and oxygen molecules are the “reactants” of the reaction.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "When hydrogen and oxygen combine to form water, the water molecules are the “products” of the reaction.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Chemical reactions may only proceed in one direction.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "Chemical reactions involve the making and breaking of chemical bonds.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Chemical reactions may only proceed in one direction.",
+          "general_comment": ""
+        },
+        {
+          "question": "When two atoms share a pair of electrons, they",
+          "answers": [
+            {
+              "text": "form an ionic bond",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "form an electrical bond",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "form a covalent bond",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "form a paired bond",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "form a covalent bond",
+          "general_comment": ""
+        },
+        {
+          "question": "When an electron is moved further from the nucleus",
+          "answers": [
+            {
+              "text": "its potential energy may change, depending on how the electron was moved",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "its potential energy is unchanged",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "it loses potential energy",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "it gains potential energy",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "it gains potential energy",
+          "general_comment": ""
+        },
+        {
+          "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
+          "answers": [
+            {
+              "text": "an electron may move to an electron shell closer to the nucleus.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the atom would become a negatively charged ion, or anion.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the atom may become a radioactive isotope.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "an electron may move to an electron shell farther away from the nucleus.",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "an electron may move to an electron shell farther away from the nucleus.",
+          "general_comment": ""
+        }
+      ]
+    },
+    {
       "quiz_title": "SQ topic 1a level 1a (course resources and policies): BIOL 1009 (070-082) General Biology (Fall 2025)",
       "questions": [
         {
@@ -4536,6 +5216,556 @@
       ]
     },
     {
+      "quiz_title": "SQ topic 1b level 2 (Chapter 1)_5",
+      "questions": [
+        {
+          "question": "Quantitative data may be collected",
+          "answers": [
+            {
+              "text": "when carrying out discovery science or hypothesis-based science",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "only when carrying out discovery science",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "only when carrying out numerical science",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "only when carrying out hypothesis-based science",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "when carrying out discovery science or hypothesis-based science",
+          "general_comment": ""
+        },
+        {
+          "question": "A hypothesis",
+          "answers": [
+            {
+              "text": "is a tentative answer to a question",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "is the same thing as a theory",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "is a prediction scientists make based on many careful observations",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "is a specific question formulated by scientists after making many careful observations",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "is a tentative answer to a question",
+          "general_comment": ""
+        },
+        {
+          "question": "What types of data may be collected when doing discovery science?",
+          "answers": [
+            {
+              "text": "Qualitative data only",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Quantitative and qualitative data",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "Only data that is partially qualitative and partially quantitative",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Quantitative data only",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Quantitative and qualitative data",
+          "general_comment": ""
+        },
+        {
+          "question": "Discovery science",
+          "answers": [
+            {
+              "text": "focuses on accurately describing natural structures or processes",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "focuses on testing predictions",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "focuses on answering specific questions",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "focuses on formulating hypotheses",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "focuses on accurately describing natural structures or processes",
+          "general_comment": ""
+        },
+        {
+          "question": "Which of the following best describes the logic of hypothesis-based science?",
+          "answers": [
+            {
+              "text": "If my hypothesis is correct, I can expect certain results.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "If my prediction is correct, it will lead to a testable hypothesis.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "If I generate a testable hypothesis, tests and observations will support it.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "If my observations are accurate, they will support my hypothesis.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "If my hypothesis is correct, I can expect certain results.",
+          "general_comment": ""
+        },
+        {
+          "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
+          "answers": [
+            {
+              "text": "gives the investigator a systematic, unbiased result",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ensures that hypotheses can be confirmed with certainty",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ensures that the variable being tested is measured without error",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "allows rejection of a hypothesis",
+              "is_correct": true,
+              "comment": "Nice job!"
+            }
+          ],
+          "correct_answer": "allows rejection of a hypothesis",
+          "general_comment": "Nice job!"
+        },
+        {
+          "question": "A theory is",
+          "answers": [
+            {
+              "text": "a concept that, once established in the scientific literature, can be modified but never rejected, even when new scientific methods produce data that don’t fit",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "not correct unless it is several years old",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "a well-supported concept that has broad explanatory power",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "a poorly supported idea that has little backing but might be correct",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "a well-supported concept that has broad explanatory power",
+          "general_comment": ""
+        },
+        {
+          "question": "During peer-review of a manuscript",
+          "answers": [
+            {
+              "text": "all of these answers are correct",
+              "is_correct": true,
+              "comment": "Good job!"
+            },
+            {
+              "text": "the conclusions drawn in the manuscript are carefully considered to determine whether they are adequately supported by the data",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the experiments described in the manuscript are evaluated to determine whether they were rigorously performed",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "typically two to three experts review the manuscript",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "all of these answers are correct",
+          "general_comment": "Good job!"
+        },
+        {
+          "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+          "answers": [
+            {
+              "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "Theories are proved true in all cases; hypotheses are usually falsified by tests.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Theories are hypotheses that have been proven.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Hypotheses are guesses; theories are correct answers.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
+          "general_comment": ""
+        },
+        {
+          "question": "Which of the following is NOT an example of discovery science?",
+          "answers": [
+            {
+              "text": "Observations that led to the conclusion that all organism are made of cells",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Some of Charles Darwin’s work that helped lead to the theory of natural selection",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Some of Jane Goodall’s work observing chimpanzee behavior",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Testing the prediction that mimicking the coloring of poisonous snakes will protect non-poisonous snakes from predation.",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "Testing the prediction that mimicking the coloring of poisonous snakes will protect non-poisonous snakes from predation.",
+          "general_comment": ""
+        }
+      ]
+    },
+    {
+      "quiz_title": "SQ topic 1b level 2 (Chapter 1)_6",
+      "questions": [
+        {
+          "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
+          "answers": [
+            {
+              "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "Theories are proved true in all cases; hypotheses are usually falsified by tests.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Theories are hypotheses that have been proven.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Hypotheses are guesses; theories are correct answers.",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
+          "general_comment": ""
+        },
+        {
+          "question": "Discovery science",
+          "answers": [
+            {
+              "text": "focuses on accurately describing natural structures or processes",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "focuses on testing predictions",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "focuses on answering specific questions",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "focuses on formulating hypotheses",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "focuses on accurately describing natural structures or processes",
+          "general_comment": ""
+        },
+        {
+          "question": "During peer-review of a manuscript",
+          "answers": [
+            {
+              "text": "the conclusions drawn in the manuscript are carefully considered to determine whether they are adequately supported by the data",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "all of these answers are correct",
+              "is_correct": true,
+              "comment": "Good job!"
+            },
+            {
+              "text": "typically two to three experts review the manuscript",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "the experiments described in the manuscript are evaluated to determine whether they were rigorously performed",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "all of these answers are correct",
+          "general_comment": "Good job!"
+        },
+        {
+          "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
+          "answers": [
+            {
+              "text": "theory",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "all of these answers are correct",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "hypothesis",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "prediction",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "theory",
+          "general_comment": ""
+        },
+        {
+          "question": "Through careful experimentation or observations, it is possible to prove",
+          "answers": [
+            {
+              "text": "neither a hypothesis nor a theory",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "a theory, but not a hypothesis",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "a hypothesis, but not a theory",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "either a hypothesis or a theory",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "neither a hypothesis nor a theory",
+          "general_comment": ""
+        },
+        {
+          "question": "Which of the following statements about hypotheses is FALSE?",
+          "answers": [
+            {
+              "text": "Hypotheses should be possible answers to specific questions.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Hypotheses should be testable.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Hypotheses should be falsifiable.",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Hypotheses should be provable.",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "Hypotheses should be provable.",
+          "general_comment": ""
+        },
+        {
+          "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
+          "answers": [
+            {
+              "text": "gives the investigator a systematic, unbiased result",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ensures that the variable being tested is measured without error",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "ensures that hypotheses can be confirmed with certainty",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "allows rejection of a hypothesis",
+              "is_correct": true,
+              "comment": "Nice job!"
+            }
+          ],
+          "correct_answer": "allows rejection of a hypothesis",
+          "general_comment": "Nice job!"
+        },
+        {
+          "question": "Which of the following is NOT an example of discovery science?",
+          "answers": [
+            {
+              "text": "Observations that led to the conclusion that all organism are made of cells",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Testing the prediction that mimicking the coloring of poisonous snakes will protect non-poisonous snakes from predation.",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "Some of Charles Darwin’s work that helped lead to the theory of natural selection",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "Some of Jane Goodall’s work observing chimpanzee behavior",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "Testing the prediction that mimicking the coloring of poisonous snakes will protect non-poisonous snakes from predation.",
+          "general_comment": ""
+        },
+        {
+          "question": "A theory is",
+          "answers": [
+            {
+              "text": "a well-supported concept that has broad explanatory power",
+              "is_correct": true,
+              "comment": ""
+            },
+            {
+              "text": "a poorly supported idea that has little backing but might be correct",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "not correct unless it is several years old",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "a concept that, once established in the scientific literature, can be modified but never rejected, even when new scientific methods produce data that don’t fit",
+              "is_correct": false,
+              "comment": null
+            }
+          ],
+          "correct_answer": "a well-supported concept that has broad explanatory power",
+          "general_comment": ""
+        },
+        {
+          "question": "A hypothesis",
+          "answers": [
+            {
+              "text": "can be proven to be correct or incorrect, depending on experimental results",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "can be proven to be correct",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "can NOT be proven to be correct or incorrect, regardless of experimental results",
+              "is_correct": false,
+              "comment": null
+            },
+            {
+              "text": "can NOT be proven to be correct",
+              "is_correct": true,
+              "comment": ""
+            }
+          ],
+          "correct_answer": "can NOT be proven to be correct",
+          "general_comment": ""
+        }
+      ]
+    },
+    {
       "quiz_title": "SQ topic 2 level 1a (Chapters 2 + 3): BIOL 1009 (070-082) General Biology (Fall 2025)",
       "questions": [
         {
@@ -7011,831 +8241,6 @@
       ]
     },
     {
-      "quiz_title": "SQ topic 1b level 2 (Chapter 1)_5",
-      "questions": [
-        {
-          "question": "What are two methods of scientific inquiry?",
-          "answers": [
-            {
-              "text": "discovery science and experimental planning",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "hypothesis-based science and experimental planning",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "experimental planning and theoretical design",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "discovery science and hypothesis-based science",
-              "is_correct": true,
-              "comment": ""
-            }
-          ],
-          "correct_answer": "discovery science and hypothesis-based science",
-          "general_comment": ""
-        },
-        {
-          "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
-          "answers": [
-            {
-              "text": "experimental science.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "discovery science.",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "qualitative science.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "hypothesis-based science.",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "discovery science.",
-          "general_comment": ""
-        },
-        {
-          "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
-          "answers": [
-            {
-              "text": "there must be several options in the hypothesis to chose from, one of which is correct",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "the hypothesis has been proved wrong",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "only a controlled experiment can prove whether a hypothesis is correct or incorrect",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "some conceivable observation or experiment could reveal whether a given hypothesis is incorrect",
-              "is_correct": true,
-              "comment": ""
-            }
-          ],
-          "correct_answer": "some conceivable observation or experiment could reveal whether a given hypothesis is incorrect",
-          "general_comment": ""
-        },
-        {
-          "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
-          "answers": [
-            {
-              "text": "Theories are proved true in all cases; hypotheses are usually falsified by tests.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Hypotheses are guesses; theories are correct answers.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Theories are hypotheses that have been proven.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
-              "is_correct": true,
-              "comment": ""
-            }
-          ],
-          "correct_answer": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
-          "general_comment": ""
-        },
-        {
-          "question": "A hypothesis",
-          "answers": [
-            {
-              "text": "is the same thing as a theory",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "is a specific question formulated by scientists after making many careful observations",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "is a prediction scientists make based on many careful observations",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "is a tentative answer to a question",
-              "is_correct": true,
-              "comment": ""
-            }
-          ],
-          "correct_answer": "is a tentative answer to a question",
-          "general_comment": ""
-        },
-        {
-          "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
-          "answers": [
-            {
-              "text": "theory",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "all of these answers are correct",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "hypothesis",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "prediction",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "theory",
-          "general_comment": ""
-        },
-        {
-          "question": "What types of data may be collected when doing discovery science?",
-          "answers": [
-            {
-              "text": "Quantitative data only",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Only data that is partially qualitative and partially quantitative",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Qualitative data only",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Quantitative and qualitative data",
-              "is_correct": true,
-              "comment": ""
-            }
-          ],
-          "correct_answer": "Quantitative and qualitative data",
-          "general_comment": ""
-        },
-        {
-          "question": "Through careful experimentation or observations, it is possible to prove",
-          "answers": [
-            {
-              "text": "neither a hypothesis nor a theory",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "either a hypothesis or a theory",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "a hypothesis, but not a theory",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "a theory, but not a hypothesis",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "neither a hypothesis nor a theory",
-          "general_comment": ""
-        },
-        {
-          "question": "What types of data may be collected when doing hypothesis-based science?",
-          "answers": [
-            {
-              "text": "Quantitative and qualitative data",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "Qualitative data only",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Only data that is partially qualitative and partially quantitative",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Quantitative data only",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "Quantitative and qualitative data",
-          "general_comment": ""
-        },
-        {
-          "question": "A theory is",
-          "answers": [
-            {
-              "text": "a well-supported concept that has broad explanatory power",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "a poorly supported idea that has little backing but might be correct",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "a concept that, once established in the scientific literature, can be modified but never rejected, even when new scientific methods produce data that don’t fit",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "not correct unless it is several years old",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "a well-supported concept that has broad explanatory power",
-          "general_comment": ""
-        }
-      ]
-    },
-    {
-      "quiz_title": "SQ topic 1b level 2 (Chapter 1)_6",
-      "questions": [
-        {
-          "question": "Quantitative data may be collected",
-          "answers": [
-            {
-              "text": "when carrying out discovery science or hypothesis-based science",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "only when carrying out discovery science",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "only when carrying out numerical science",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "only when carrying out hypothesis-based science",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "when carrying out discovery science or hypothesis-based science",
-          "general_comment": ""
-        },
-        {
-          "question": "A hypothesis",
-          "answers": [
-            {
-              "text": "is a tentative answer to a question",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "is the same thing as a theory",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "is a prediction scientists make based on many careful observations",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "is a specific question formulated by scientists after making many careful observations",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "is a tentative answer to a question",
-          "general_comment": ""
-        },
-        {
-          "question": "What types of data may be collected when doing discovery science?",
-          "answers": [
-            {
-              "text": "Qualitative data only",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Quantitative and qualitative data",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "Only data that is partially qualitative and partially quantitative",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Quantitative data only",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "Quantitative and qualitative data",
-          "general_comment": ""
-        },
-        {
-          "question": "Discovery science",
-          "answers": [
-            {
-              "text": "focuses on accurately describing natural structures or processes",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "focuses on testing predictions",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "focuses on answering specific questions",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "focuses on formulating hypotheses",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "focuses on accurately describing natural structures or processes",
-          "general_comment": ""
-        },
-        {
-          "question": "Which of the following best describes the logic of hypothesis-based science?",
-          "answers": [
-            {
-              "text": "If my hypothesis is correct, I can expect certain results.",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "If my prediction is correct, it will lead to a testable hypothesis.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "If I generate a testable hypothesis, tests and observations will support it.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "If my observations are accurate, they will support my hypothesis.",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "If my hypothesis is correct, I can expect certain results.",
-          "general_comment": ""
-        },
-        {
-          "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
-          "answers": [
-            {
-              "text": "gives the investigator a systematic, unbiased result",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "ensures that hypotheses can be confirmed with certainty",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "ensures that the variable being tested is measured without error",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "allows rejection of a hypothesis",
-              "is_correct": true,
-              "comment": "Nice job!"
-            }
-          ],
-          "correct_answer": "allows rejection of a hypothesis",
-          "general_comment": "Nice job!"
-        },
-        {
-          "question": "A theory is",
-          "answers": [
-            {
-              "text": "a concept that, once established in the scientific literature, can be modified but never rejected, even when new scientific methods produce data that don’t fit",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "not correct unless it is several years old",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "a well-supported concept that has broad explanatory power",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "a poorly supported idea that has little backing but might be correct",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "a well-supported concept that has broad explanatory power",
-          "general_comment": ""
-        },
-        {
-          "question": "During peer-review of a manuscript",
-          "answers": [
-            {
-              "text": "all of these answers are correct",
-              "is_correct": true,
-              "comment": "Good job!"
-            },
-            {
-              "text": "the conclusions drawn in the manuscript are carefully considered to determine whether they are adequately supported by the data",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "the experiments described in the manuscript are evaluated to determine whether they were rigorously performed",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "typically two to three experts review the manuscript",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "all of these answers are correct",
-          "general_comment": "Good job!"
-        },
-        {
-          "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
-          "answers": [
-            {
-              "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "Theories are proved true in all cases; hypotheses are usually falsified by tests.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Theories are hypotheses that have been proven.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Hypotheses are guesses; theories are correct answers.",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
-          "general_comment": ""
-        },
-        {
-          "question": "Which of the following is NOT an example of discovery science?",
-          "answers": [
-            {
-              "text": "Observations that led to the conclusion that all organism are made of cells",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Some of Charles Darwin’s work that helped lead to the theory of natural selection",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Some of Jane Goodall’s work observing chimpanzee behavior",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Testing the prediction that mimicking the coloring of poisonous snakes will protect non-poisonous snakes from predation.",
-              "is_correct": true,
-              "comment": ""
-            }
-          ],
-          "correct_answer": "Testing the prediction that mimicking the coloring of poisonous snakes will protect non-poisonous snakes from predation.",
-          "general_comment": ""
-        }
-      ]
-    },
-    {
-      "quiz_title": "SQ topic 1b level 2 (Chapter 1)_7",
-      "questions": [
-        {
-          "question": "Which of the following statements best distinguishes hypotheses from theories in science?",
-          "answers": [
-            {
-              "text": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "Theories are proved true in all cases; hypotheses are usually falsified by tests.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Theories are hypotheses that have been proven.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Hypotheses are guesses; theories are correct answers.",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "Hypotheses usually are relatively narrow in scope; theories have broad explanatory power.",
-          "general_comment": ""
-        },
-        {
-          "question": "Discovery science",
-          "answers": [
-            {
-              "text": "focuses on accurately describing natural structures or processes",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "focuses on testing predictions",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "focuses on answering specific questions",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "focuses on formulating hypotheses",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "focuses on accurately describing natural structures or processes",
-          "general_comment": ""
-        },
-        {
-          "question": "During peer-review of a manuscript",
-          "answers": [
-            {
-              "text": "the conclusions drawn in the manuscript are carefully considered to determine whether they are adequately supported by the data",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "all of these answers are correct",
-              "is_correct": true,
-              "comment": "Good job!"
-            },
-            {
-              "text": "typically two to three experts review the manuscript",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "the experiments described in the manuscript are evaluated to determine whether they were rigorously performed",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "all of these answers are correct",
-          "general_comment": "Good job!"
-        },
-        {
-          "question": "An explanation that is broad in scope and is supported by a large body of evidence is known in science as a",
-          "answers": [
-            {
-              "text": "theory",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "all of these answers are correct",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "hypothesis",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "prediction",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "theory",
-          "general_comment": ""
-        },
-        {
-          "question": "Through careful experimentation or observations, it is possible to prove",
-          "answers": [
-            {
-              "text": "neither a hypothesis nor a theory",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "a theory, but not a hypothesis",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "a hypothesis, but not a theory",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "either a hypothesis or a theory",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "neither a hypothesis nor a theory",
-          "general_comment": ""
-        },
-        {
-          "question": "Which of the following statements about hypotheses is FALSE?",
-          "answers": [
-            {
-              "text": "Hypotheses should be possible answers to specific questions.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Hypotheses should be testable.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Hypotheses should be falsifiable.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Hypotheses should be provable.",
-              "is_correct": true,
-              "comment": ""
-            }
-          ],
-          "correct_answer": "Hypotheses should be provable.",
-          "general_comment": ""
-        },
-        {
-          "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
-          "answers": [
-            {
-              "text": "gives the investigator a systematic, unbiased result",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "ensures that the variable being tested is measured without error",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "ensures that hypotheses can be confirmed with certainty",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "allows rejection of a hypothesis",
-              "is_correct": true,
-              "comment": "Nice job!"
-            }
-          ],
-          "correct_answer": "allows rejection of a hypothesis",
-          "general_comment": "Nice job!"
-        },
-        {
-          "question": "Which of the following is NOT an example of discovery science?",
-          "answers": [
-            {
-              "text": "Observations that led to the conclusion that all organism are made of cells",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Testing the prediction that mimicking the coloring of poisonous snakes will protect non-poisonous snakes from predation.",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "Some of Charles Darwin’s work that helped lead to the theory of natural selection",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Some of Jane Goodall’s work observing chimpanzee behavior",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "Testing the prediction that mimicking the coloring of poisonous snakes will protect non-poisonous snakes from predation.",
-          "general_comment": ""
-        },
-        {
-          "question": "A theory is",
-          "answers": [
-            {
-              "text": "a well-supported concept that has broad explanatory power",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "a poorly supported idea that has little backing but might be correct",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "not correct unless it is several years old",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "a concept that, once established in the scientific literature, can be modified but never rejected, even when new scientific methods produce data that don’t fit",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "a well-supported concept that has broad explanatory power",
-          "general_comment": ""
-        },
-        {
-          "question": "A hypothesis",
-          "answers": [
-            {
-              "text": "can be proven to be correct or incorrect, depending on experimental results",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "can be proven to be correct",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "can NOT be proven to be correct or incorrect, regardless of experimental results",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "can NOT be proven to be correct",
-              "is_correct": true,
-              "comment": ""
-            }
-          ],
-          "correct_answer": "can NOT be proven to be correct",
-          "general_comment": ""
-        }
-      ]
-    },
-    {
       "quiz_title": "SQ topic 2 level 2 (Chapters 2 + 3)_6",
       "questions": [
         {
@@ -8932,686 +9337,6 @@
           ],
           "correct_answer": "ten times as many H+ ions in the solution",
           "general_comment": "Nice job!"
-        }
-      ]
-    },
-    {
-      "quiz_title": "Quiz 2 (due Thursday, Sept. 11 at 11:59 PM): BIOL 1009 (070-082) General Biology (Fall 2025)",
-      "questions": [
-        {
-          "question": "MgCl2 is an example of",
-          "answers": [
-            {
-              "text": "a compound",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "an element",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "a molecule",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "an organic substance",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "a compound",
-          "general_comment": ""
-        },
-        {
-          "question": "Electron shells",
-          "answers": [
-            {
-              "text": "may have only certain average distances from the nucleus and may have only certain energy levels",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "may have any average distance from the nucleus and any energy level",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "may have any average distance from the nucleus but may have only certain energy levels",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "may have only certain average distances from the nucleus but may have any energy level",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "may have only certain average distances from the nucleus and may have only certain energy levels",
-          "general_comment": ""
-        },
-        {
-          "question": "When a reversible chemical reaction reaches equilibrium,",
-          "answers": [
-            {
-              "text": "the forward and reverse reactions stop",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "the relative concentrations of reactants and products continues to change",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "the concentrations of reactants and products are equal",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "the forward and reverse reactions occur at the same rate",
-              "is_correct": true,
-              "comment": ""
-            }
-          ],
-          "correct_answer": "the forward and reverse reactions occur at the same rate",
-          "general_comment": ""
-        },
-        {
-          "question": "How many electrons do carbon atoms have in their valence shell?",
-          "answers": [
-            {
-              "text": "1",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "8",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "2",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "4",
-              "is_correct": true,
-              "comment": ""
-            }
-          ],
-          "correct_answer": "4",
-          "general_comment": ""
-        },
-        {
-          "question": "How many electrons do nitrogen atoms have in their valence shell?",
-          "answers": [
-            {
-              "text": "2",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "5",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "4",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "3",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "5",
-          "general_comment": ""
-        },
-        {
-          "question": "Pure water at room temperature has a concentration of 10-7 hydrogen ions (H+) and 10-7 hydroxyl ions (OH-). Why is this?",
-          "answers": [
-            {
-              "text": "Because at any given moment 1 in 1014 water molecules is broken apart into hydrogen and hydroxyl ions.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Because water will absorb oxygen molecules from the atmosphere and some of those oxygen molecules will combine with hydrogen atoms from the water.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Because at any given moment 1 in 103.5 water molecules is broken apart into hydrogen and hydroxyl ions.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Because at any given moment 1 in 107 water molecules is broken apart into hydrogen and hydroxyl ions.",
-              "is_correct": true,
-              "comment": "Nice job!"
-            }
-          ],
-          "correct_answer": "Because at any given moment 1 in 107 water molecules is broken apart into hydrogen and hydroxyl ions.",
-          "general_comment": "Nice job!"
-        },
-        {
-          "question": "What is the pH of a solution with a hydrogen ion [H+] concentration of 10-8 M?",
-          "answers": [
-            {
-              "text": "pH 2",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "pH 10",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "pH 8",
-              "is_correct": true,
-              "comment": "Nice job!"
-            },
-            {
-              "text": "pH 4",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "pH 8",
-          "general_comment": "Nice job!"
-        },
-        {
-          "question": "If you mix a solid, hydrophilic substance “X” and a solid, hydrophobic substance “Y” with water",
-          "answers": [
-            {
-              "text": "X will likely not dissolve in the water. Y will likely dissolve in the water, forming a solution where Y is the solvent and water is the solute.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "X will likely not dissolve in the water. Y will likely dissolve in the water, forming a solution where Y is the solute and water is the solvent.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "X will likely dissolve in the water, forming a solution where X is the solute and water is the solvent. Y will likely not dissolve in the water.",
-              "is_correct": true,
-              "comment": "Good work!"
-            },
-            {
-              "text": "X will likely dissolve in the water, forming a solution where X is the solvent and water is the solute. Y will likely not dissolve in the water.",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "X will likely dissolve in the water, forming a solution where X is the solute and water is the solvent. Y will likely not dissolve in the water.",
-          "general_comment": "Good work!"
-        },
-        {
-          "question": "Which of the following would you expect to dissolve poorly in water?",
-          "answers": [
-            {
-              "text": "A substance with a lot of polar covalent bonds",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "A substance with a lot of nonpolar covalent bonds",
-              "is_correct": true,
-              "comment": "Good work!"
-            },
-            {
-              "text": "Anions",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Cations",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "A substance with a lot of nonpolar covalent bonds",
-          "general_comment": "Good work!"
-        },
-        {
-          "question": "Discovery science",
-          "answers": [
-            {
-              "text": "focuses on testing predictions",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "focuses on formulating hypotheses",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "focuses on answering specific questions",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "focuses on accurately describing natural structures or processes",
-              "is_correct": true,
-              "comment": ""
-            }
-          ],
-          "correct_answer": "focuses on accurately describing natural structures or processes",
-          "general_comment": ""
-        },
-        {
-          "question": "Experimentation is only one part of the process of scientific inquiry, but it is a very important step because it",
-          "answers": [
-            {
-              "text": "gives the investigator a systematic, unbiased result",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "allows rejection of a hypothesis",
-              "is_correct": true,
-              "comment": "Nice job!"
-            },
-            {
-              "text": "ensures that the variable being tested is measured without error",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "ensures that hypotheses can be confirmed with certainty",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "allows rejection of a hypothesis",
-          "general_comment": "Nice job!"
-        },
-        {
-          "question": "A hypothesis",
-          "answers": [
-            {
-              "text": "can NOT be proven to be correct or incorrect, regardless of experimental results",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "can be proven to be correct",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "can be proven to be correct or incorrect, depending on experimental results",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "can NOT be proven to be correct",
-              "is_correct": true,
-              "comment": ""
-            }
-          ],
-          "correct_answer": "can NOT be proven to be correct",
-          "general_comment": ""
-        },
-        {
-          "question": "A hypothesis must be testable and falsifiable to be scientifically valid. Being testable and falsifiable means that",
-          "answers": [
-            {
-              "text": "some conceivable observation or experiment could reveal whether a given hypothesis is incorrect",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "only a controlled experiment can prove whether a hypothesis is correct or incorrect",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "the hypothesis has been proved wrong",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "there must be several options in the hypothesis to chose from, one of which is correct",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "some conceivable observation or experiment could reveal whether a given hypothesis is incorrect",
-          "general_comment": ""
-        },
-        {
-          "question": "Polar molecules are often able to dissolve in water because",
-          "answers": [
-            {
-              "text": "The polar molecules attract each other, allowing water molecules to adsorb to them.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "The polar molecules repel each other, allowing them to interact with the water molecules.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "The partially charged regions of polar molecules are able to form hydrogen bonds with water molecules.",
-              "is_correct": true,
-              "comment": "Good work!"
-            },
-            {
-              "text": "Polar molecules are able to fill their valence shells by transferring electrons from water molecules.",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "The partially charged regions of polar molecules are able to form hydrogen bonds with water molecules.",
-          "general_comment": "Good work!"
-        },
-        {
-          "question": "What is the pH of an aqueous solution with a hydroxyl ion [OH-] concentration of 10-12 M?",
-          "answers": [
-            {
-              "text": "pH 2",
-              "is_correct": true,
-              "comment": "Nice job!"
-            },
-            {
-              "text": "pH 12",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "pH 10",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "pH 4",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "pH 2",
-          "general_comment": "Nice job!"
-        },
-        {
-          "question": "A solution with a pH of 12 contains what concentration of hydroxyl ions [OH-]?",
-          "answers": [
-            {
-              "text": "0.01 moles/liter",
-              "is_correct": true,
-              "comment": "Nice job!"
-            },
-            {
-              "text": "2 moles/liter",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "10-12 moles/liter",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "0.12 moles/liter",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "0.01 moles/liter",
-          "general_comment": "Nice job!"
-        },
-        {
-          "question": "The charge on a water molecule is best described as being:",
-          "answers": [
-            {
-              "text": "Somewhat less than minus one near the oxygen atom and plus one near each of the hydrogen atoms.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Minus one near the oxygen atom and somewhat less than plus one near each of the hydrogen atoms.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Minus one near the oxygen atom and plus one near each of the hydrogen atoms.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Somewhat less than minus one near the oxygen atom and somewhat less than plus one near each of the hydrogen atoms.",
-              "is_correct": true,
-              "comment": "Good work!"
-            }
-          ],
-          "correct_answer": "Somewhat less than minus one near the oxygen atom and somewhat less than plus one near each of the hydrogen atoms.",
-          "general_comment": "Good work!"
-        },
-        {
-          "question": "A theory is",
-          "answers": [
-            {
-              "text": "a poorly supported idea that has little backing but might be correct",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "a concept that, once established in the scientific literature, can be modified but never rejected, even when new scientific methods produce data that don’t fit",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "a well-supported concept that has broad explanatory power",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "not correct unless it is several years old",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "a well-supported concept that has broad explanatory power",
-          "general_comment": ""
-        },
-        {
-          "question": "Qualitative data may be collected",
-          "answers": [
-            {
-              "text": "when carrying out discovery science or hypothesis-based science",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "only when carrying out discovery science",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "only when carrying out hypothesis-based science",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "only when carrying out numerical science",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "when carrying out discovery science or hypothesis-based science",
-          "general_comment": ""
-        },
-        {
-          "question": "The method of scientific inquiry that describes natural structures and processes as accurately as possible through careful observation and the analysis of data is known as",
-          "answers": [
-            {
-              "text": "qualitative science.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "experimental science.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "discovery science.",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "hypothesis-based science.",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "discovery science.",
-          "general_comment": ""
-        },
-        {
-          "question": "Which of the following statements about valence shells is FALSE?",
-          "answers": [
-            {
-              "text": "Electrons in the valence shell (i.e. valence electrons) are primarily responsible for the chemical behavior of atoms.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "The valence shell is the outermost electron shell of an atom.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "The number of valence shells contained by a particular atom is dependent on how many electrons that atom has.",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "The valence shell is the highest energy electron shell an atom has.",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "The number of valence shells contained by a particular atom is dependent on how many electrons that atom has.",
-          "general_comment": ""
-        },
-        {
-          "question": "Which of the following statements about chemical reactions is FALSE?",
-          "answers": [
-            {
-              "text": "When hydrogen and oxygen combine to form water, the hydrogen and oxygen molecules are the “reactants” of the reaction.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "When hydrogen and oxygen combine to form water, the water molecules are the “products” of the reaction.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "Chemical reactions may only proceed in one direction.",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "Chemical reactions involve the making and breaking of chemical bonds.",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "Chemical reactions may only proceed in one direction.",
-          "general_comment": ""
-        },
-        {
-          "question": "When two atoms share a pair of electrons, they",
-          "answers": [
-            {
-              "text": "form an ionic bond",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "form an electrical bond",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "form a covalent bond",
-              "is_correct": true,
-              "comment": ""
-            },
-            {
-              "text": "form a paired bond",
-              "is_correct": false,
-              "comment": null
-            }
-          ],
-          "correct_answer": "form a covalent bond",
-          "general_comment": ""
-        },
-        {
-          "question": "When an electron is moved further from the nucleus",
-          "answers": [
-            {
-              "text": "its potential energy may change, depending on how the electron was moved",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "its potential energy is unchanged",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "it loses potential energy",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "it gains potential energy",
-              "is_correct": true,
-              "comment": ""
-            }
-          ],
-          "correct_answer": "it gains potential energy",
-          "general_comment": ""
-        },
-        {
-          "question": "Electrons exist only at fixed levels of potential energy. However, if an atom absorbs sufficient energy, a possible result is that",
-          "answers": [
-            {
-              "text": "an electron may move to an electron shell closer to the nucleus.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "the atom would become a negatively charged ion, or anion.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "the atom may become a radioactive isotope.",
-              "is_correct": false,
-              "comment": null
-            },
-            {
-              "text": "an electron may move to an electron shell farther away from the nucleus.",
-              "is_correct": true,
-              "comment": ""
-            }
-          ],
-          "correct_answer": "an electron may move to an electron shell farther away from the nucleus.",
-          "general_comment": ""
         }
       ]
     }
