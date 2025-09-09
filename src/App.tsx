@@ -1,0 +1,94 @@
+import React, { useState } from 'react';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import HomePage from './components/HomePage';
+import QuizPage from './components/QuizPage';
+import ResultsPage from './components/ResultsPage';
+import { quizData, Question } from './data/quizData';
+
+type AppState = 'home' | 'quiz' | 'results';
+
+interface QuizResults {
+  answers: { [key: string]: number };
+  wrongAnswers: Question[];
+}
+
+function App() {
+  const [currentState, setCurrentState] = useState<AppState>('home');
+  const [selectedTopics, setSelectedTopics] = useState<string[]>([]);
+  const [quizQuestions, setQuizQuestions] = useState<Question[]>([]);
+  const [quizResults, setQuizResults] = useState<QuizResults | null>(null);
+
+  const handleStartQuiz = (topics: string[]) => {
+    setSelectedTopics(topics);
+    
+    // Collect all questions from selected topics
+    const questions = topics.flatMap(topic => {
+      const quiz = quizData.find(q => q.title === topic);
+      return quiz ? quiz.questions : [];
+    });
+    
+    // Shuffle questions for random order
+    const shuffledQuestions = [...questions].sort(() => Math.random() - 0.5);
+    
+    setQuizQuestions(shuffledQuestions);
+    setCurrentState('quiz');
+  };
+
+  const handleQuizComplete = (answers: { [key: string]: number }, wrongAnswers: Question[]) => {
+    setQuizResults({ answers, wrongAnswers });
+    setCurrentState('results');
+  };
+
+  const handleRetakeQuiz = () => {
+    setQuizResults(null);
+    setCurrentState('quiz');
+  };
+
+  const handleNewQuiz = () => {
+    setQuizResults(null);
+    setSelectedTopics([]);
+    setQuizQuestions([]);
+    setCurrentState('home');
+  };
+
+  const handleBackToFilter = () => {
+    setCurrentState('home');
+  };
+
+  return (
+    <Router>
+      <div className="min-h-screen">
+        {currentState === 'home' && (
+          <HomePage onStartQuiz={handleStartQuiz} />
+        )}
+        
+        {currentState === 'quiz' && (
+          <QuizPage 
+            questions={quizQuestions}
+            onComplete={handleQuizComplete}
+            onBackToFilter={handleBackToFilter}
+          />
+        )}
+        
+        {currentState === 'results' && quizResults && (
+          <ResultsPage 
+            answers={quizResults.answers}
+            wrongAnswers={quizResults.wrongAnswers}
+            selectedTopics={selectedTopics}
+            onRetakeQuiz={handleRetakeQuiz}
+            onNewQuiz={handleNewQuiz}
+          />
+        )}
+        
+        <Routes>
+          <Route path="/" element={<Navigate to="/home" replace />} />
+          <Route path="/home" element={<div />} />
+          <Route path="/quiz" element={<div />} />
+          <Route path="/results" element={<div />} />
+        </Routes>
+      </div>
+    </Router>
+  );
+}
+
+export default App;

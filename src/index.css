@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* University of Minnesota Color Palette with Biology Theme */
+  --primary: 6 73% 42%;            /* Maroon (UMN Official) */
+  --primary-glow: 6 73% 52%;       /* Lighter Maroon */
+  --secondary: 45 87% 55%;         /* Golden Gopher (UMN Official) */
+  --accent: 142 85% 40%;           /* Biology Green (Chlorophyll) */
+  --nature: 200 100% 25%;          /* Deep Ocean Blue */
+  --earth: 30 65% 45%;             /* Earthy Brown */
+  --background: 40 20% 97%;        /* Warm Off-White */
+  --card: 0 0% 100%;              /* Pure White Cards */
+  --foreground: 6 25% 25%;        /* Deep Maroon Text */
+  --muted: 40 25% 94%;            /* Light Warm Gray */
+  --muted-foreground: 6 15% 55%;   /* Medium Maroon Text */
+  --border: 40 20% 88%;           /* Subtle Warm Borders */
+  
+  /* Gradients with UMN and Biology themes */
+  --gradient-primary: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--primary-glow)));
+  --gradient-gopher: linear-gradient(135deg, hsl(var(--secondary)), hsl(45 87% 65%));
+  --gradient-nature: linear-gradient(135deg, hsl(var(--accent)), hsl(142 85% 50%));
+  --gradient-biology: linear-gradient(135deg, hsl(var(--nature)), hsl(var(--accent)));
+  --gradient-subtle: linear-gradient(180deg, hsl(var(--background)), hsl(var(--muted)));
+  
+  /* Shadows using UMN maroon with transparency */
+  --shadow-elegant: 0 10px 30px -10px hsl(var(--primary) / 0.25);
+  --shadow-card: 0 4px 20px -4px hsl(var(--primary) / 0.15);
+  --shadow-glow: 0 0 40px hsl(var(--secondary) / 0.3);
+  
+  /* Animations */
+  --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-bounce: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.dark {
+  --primary: 6 73% 52%;
+  --primary-glow: 6 73% 62%;
+  --secondary: 45 87% 65%;
+  --accent: 142 85% 50%;
+  --nature: 200 100% 35%;
+  --earth: 30 65% 55%;
+  --background: 6 25% 8%;
+  --card: 6 25% 12%;
+  --foreground: 40 20% 98%;
+  --muted: 6 25% 15%;
+  --muted-foreground: 6 15% 65%;
+  --border: 6 25% 20%;
+}
+
+/* Custom scroll bar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--muted));
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--primary));
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--primary-glow));
+}
+
+/* Biology themed animations */
+@keyframes dna-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.dna-animation {
+  animation: dna-spin 10s linear infinite;
+}
+
+/* Gopher paw prints */
+.gopher-trail::before {
+  content: "🐾";
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  opacity: 0.3;
+  animation: fadeIn 2s ease-in-out infinite;
+}
