@@ -1,0 +1,38 @@
+/* Biology Quiz Master Theme - University of Minnesota */
+.app-root {
+  font-family: 'Roboto', 'Open Sans', Arial, sans-serif;
+  background: #f7f7f7 url('/assets/biology-bg.svg') repeat;
+  min-height: 100vh;
+  color: #222;
+}
+.mascot-header {
+  background: #7A0019;
+  color: #FFCC33;
+  padding: 1rem;
+  text-align: center;
+  border-bottom: 4px solid #228B22;
+}
+.quiz-me-btn {
+  background: #7A0019;
+  color: #FFCC33;
+  font-size: 1.5rem;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  border: none;
+  margin-top: 2rem;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(34,139,34,0.1);
+}
+.quiz-me-btn:disabled {
+  background: #ccc;
+  color: #888;
+  cursor: not-allowed;
+}
+.home-page, .quiz-page, .results-page {
+  max-width: 600px;
+  margin: 2rem auto;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(122,0,25,0.08);
+  padding: 2rem;
+}
